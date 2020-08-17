@@ -23,7 +23,7 @@ I mostly work with Java and my favourite framework, Spring-boot. I have also wor
   </a>
  </p>
   
-### Cloud service providers
+### Cloud Service Providers
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/aws.gif"  height="75" />
   </a>
