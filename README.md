@@ -28,8 +28,8 @@ I mostly work with Java and my favourite framework, Spring-boot. I have also wor
     <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/aws.gif"  height="75" />
   </a>
   
-  <a href="https://aws.amazon.com/" target="_blank" >
-      <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/aws.gif"  height="75" />
+  <a href="https://console.cloud.google.com/" target="_blank" >
+      <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/gcp.gif"  height="75" />
     </a>
  </p>
   
@@ -49,9 +49,7 @@ I mostly work with Java and my favourite framework, Spring-boot. I have also wor
 ### Reach out
 
   ⦿ Visit my [blog](https://thedeveloperstory.com) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/viveknaskar/) 👨🏻‍💻 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/viveknaskar/) 👨 ‍💻 <br>
   
-### Laugh out loud before you leave
-
-    ![Jokes Card](https://readme-jokes.vercel.app/api)  
+ 
   
