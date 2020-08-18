@@ -1,4 +1,4 @@
-![visitors](https://viveknaskar-visitor-badge.glitch.me/badge?page_id=viveknaskar)
+[![Visits Badge](https://badges.pufler.dev/visits/viveknaskar/viveknaskar)](https://badges.pufler.dev)
 
 ### Hey Guys! 👋 
 
