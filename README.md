@@ -50,6 +50,9 @@ I mostly work with Java and my favourite framework, Spring-boot. I have also wor
 
   ⦿ Visit my [blog](https://thedeveloperstory.com) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/viveknaskar/) 👨 ‍💻 <br>
-  
+
+
+![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=viveknaskar&show_icons=true&hide_border=true)
+
  
   
