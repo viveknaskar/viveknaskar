@@ -1,5 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/viveknaskar/viveknaskar)](https://badges.pufler.dev)
-
 ### Hey Guys! 👋 
 
 This is Vivek, a Software developer with a strong interest in Cloud-Native technologies. 🎯
