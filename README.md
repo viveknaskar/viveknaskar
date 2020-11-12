@@ -47,10 +47,8 @@ I mostly work with Java and my favourite framework, Spring-boot. I have also wor
 
 ### My GitHub Stats
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=viveknaskar&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&hide=css,java,html&theme=tokyonight">
-</p>
+![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=viveknaskar&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/viveknaskar/github-readme-stats)
 
 ### Reach out
 
