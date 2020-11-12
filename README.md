@@ -43,7 +43,13 @@ I mostly work with Java and my favourite framework, Spring-boot. I have also wor
   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
   </a> 
- 
+</p>
+
+### My GitHub Stats
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=viveknaskar&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&hide=css,java,html&theme=tokyonight">
 </p>
 
 ### Reach out
