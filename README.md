@@ -1,8 +1,8 @@
 ### Hey Guys! 👋 
 
-This is Vivek, a Software developer with a strong interest in Cloud-Native technologies. 🎯
+This is Vivek, a Senior Software developer with a strong interest in Cloud-Native technologies. 🎯
 
-I mostly work with Java and my favourite framework, Spring-boot. I have also worked in the front-end technologies (and libraries) like jQuery, Angular along with HTML, CSS and JS. But I love learning about Cloud-Native technologies. ☁️🚀
+I mostly work with Java and my favourite framework, Spring-boot. I have also worked in the front-end technologies (and libraries) like jQuery, Angular along with HTML, CSS and JS. But I love learning about Cloud-Native technologies and I am also a Google cerified Associate Cloud Engineer. ☁️🚀
 
 
 <p float="left">
