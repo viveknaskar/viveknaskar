@@ -11,7 +11,7 @@ I primarily write code in Java and with Spring-boot as my framework of choice. I
    </a>
 
   <a href="https://microservices.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/microservices.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/microservices.gif"  height="80" />
   </a>
    
   <a href="https://www.docker.com/" target="_blank" >
