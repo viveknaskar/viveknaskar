@@ -1,4 +1,5 @@
-### Hey Guys! 👋 
+### Hey Guys! 👋
+![](https://komarev.com/ghpvc/?username=viveknaskar&color=green)
 
 This is Vivek, a Senior Software developer with a strong interest in Cloud and Cloud-Native technologies. 🎯
 
