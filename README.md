@@ -1,5 +1,5 @@
 ### Hey Guys! 👋
-![](https://komarev.com/ghpvc/?username=viveknaskar&color=green)
+![](https://komarev.com/ghpvc/?username=viveknaskar&color=blue)
 
 This is Vivek, a Senior Software developer with a strong interest in Cloud and Cloud-Native technologies. 🎯
 
@@ -55,9 +55,12 @@ I primarily write code in Java and with Spring-boot as my framework of choice. I
 ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=viveknaskar&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/viveknaskar/github-readme-stats)
 
+### My GitHub Streak
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viveknaskar&theme=dark)](https://git.io/streak-stats)
+
 ### Reach out
 
-  ⦿ Visit my [blog](https://thedeveloperstory.com) 🌐 <br>
+  ⦿ Visit my [Blog](https://thedeveloperstory.com) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/viveknaskar/) 👨 ‍💻 <br>
-
- 
+  ⦿ Follow me on [Instagram](https://www.instagram.com/thedeveloperstory/) 📷 <br>
