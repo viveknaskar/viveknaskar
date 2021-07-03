@@ -28,7 +28,7 @@ I primarily write code in Java and with Spring-boot as my framework of choice. I
   </a>
  </p>
   
-### Cloud Service Providers
+## Cloud Service Providers
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/aws.gif"  height="75" />
   </a>
@@ -38,7 +38,7 @@ I primarily write code in Java and with Spring-boot as my framework of choice. I
     </a>
  </p>
   
-### Databases
+## Databases
   
  <p float="left">
   <a href="https://www.mongodb.com/" target="_blank" >
@@ -50,16 +50,16 @@ I primarily write code in Java and with Spring-boot as my framework of choice. I
   </a> 
 </p>
 
-### My GitHub Stats
+## My GitHub Stats
 
 ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=viveknaskar&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/viveknaskar/github-readme-stats)
 
-### My GitHub Streak
+## My GitHub Streak
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viveknaskar&theme=dark)](https://git.io/streak-stats)
 
-### Reach out
+## Connect With Me
 
   ⦿ Visit my [Blog](https://thedeveloperstory.com) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/viveknaskar/) 👨 ‍💻 <br>
