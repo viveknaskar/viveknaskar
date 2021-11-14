@@ -65,3 +65,5 @@ I primarily write code in Java and with Spring-boot as my framework of choice. I
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/viveknaskar/) 👨 ‍💻 <br>
   ⦿ Follow me on [Instagram](https://www.instagram.com/thedeveloperstory/) 📷 <br>
   ⦿ I am also on [Twitter](https://twitter.com/vivek_naskar) 🐦 <br>
+  ⦿ I am one of the top 2000 writers on [Medium](https://viveknaskar.medium.com/) ✍️ <br>
+
