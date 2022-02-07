@@ -59,6 +59,12 @@ I primarily write code in Java and with Spring-boot as my framework of choice. I
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viveknaskar&theme=dark)](https://git.io/streak-stats)
 
+---
+
+![Vivek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=viveknaskar&hide_border=true&theme=redical)
+
+---
+
 ## Connect With Me
 
   ⦿ Do visit my [Blog](https://thedeveloperstory.com) 🌐 <br>
