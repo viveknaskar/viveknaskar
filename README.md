@@ -61,7 +61,7 @@ I primarily write code in Java and with Spring-boot as my framework of choice. I
 
 ---
 
-![Vivek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=viveknaskar&hide_border=true&theme=redical)
+![Vivek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=viveknaskar&hide_border=false&theme=redical)
 
 ---
 
