@@ -27,8 +27,12 @@ I primarily write code in Java and with Spring-boot as my framework of choice. I
     <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/k8s.gif"  height="75" />
   </a>
 
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/html-css-js.png" height="70" />
+  <a href="https://www.javascript.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/js.js" height="70" />
+  </a>
+
+  <a href="https://html.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/html.js" height="70" />
   </a>
  </p>
   
