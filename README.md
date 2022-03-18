@@ -11,6 +11,10 @@ I primarily write code in Java and with Spring-boot as my framework of choice. I
        <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/java.gif"  height="80" /> 
    </a>
 
+   <a href="https://python.org/" target="_blank" >
+       <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/python.gif"  height="80" /> 
+   </a>
+
   <a href="https://microservices.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/microservices.gif"  height="80" />
   </a>
