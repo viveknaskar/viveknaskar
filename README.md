@@ -28,11 +28,11 @@ I primarily write code in Java and with Spring-boot as my framework of choice. I
   </a>
 
   <a href="https://www.javascript.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/js.js" height="70" />
+    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/js.gif" height="70" />
   </a>
 
   <a href="https://html.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/html.js" height="70" />
+    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/html.gif" height="70" />
   </a>
  </p>
   
