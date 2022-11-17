@@ -61,7 +61,10 @@ I primarily write code in Java and with Spring-boot as my framework of choice. I
 ## My GitHub Stats
 
 ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=viveknaskar&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/viveknaskar/github-readme-stats)
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&langs_count=7)
+<br>
 
 ## My GitHub Streak
 
@@ -69,7 +72,7 @@ I primarily write code in Java and with Spring-boot as my framework of choice. I
 
 ---
 
-![Vivek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=viveknaskar&hide_border=true&theme=redical)
+![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=viveknaskar&hide_border=true&theme=redical)
 
 ---
 
