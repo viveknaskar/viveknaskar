@@ -60,10 +60,10 @@ I primarily write code in Java, with Spring Boot as my framework of choice. I pr
 
 ## My GitHub Stats
 
-![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=viveknaskar&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=viveknaskar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&langs_count=7)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&layout=compact&theme=buefy&hide_border=true&langs_count=7)
 <br>
 
 ## My GitHub Streak
