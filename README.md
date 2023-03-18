@@ -72,10 +72,6 @@ I primarily write code in Java, with Spring Boot as my framework of choice. I pr
 
 ---
 
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=viveknaskar&hide_border=true&theme=redical)
-
----
-
 ## Connect With Me
 
   ⦿ Do visit my [Blog](https://thedeveloperstory.com) 🌐 <br>
