@@ -58,10 +58,7 @@ I primarily write code in Java, with Spring Boot as my framework of choice. I pr
   </a> 
 </p>
 
-## My GitHub Stats
-
-![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=viveknaskar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
-<br>
+## My Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&layout=compact&theme=buefy&hide_border=true&langs_count=7)
 <br>
