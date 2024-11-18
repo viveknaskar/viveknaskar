@@ -62,11 +62,6 @@ I primarily write code in Java, using Spring Boot as my framework of choice, and
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&layout=compact&theme=buefy&hide_border=true&langs_count=7)
 <br>
-
-## My GitHub Streak
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viveknaskar&theme=dark)](https://git.io/streak-stats)
-
 ---
 
 ## Connect With Me
