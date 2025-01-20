@@ -3,7 +3,7 @@
 
 This is Vivek, a senior software developer with a strong interest in cloud and cloud-native technologies. 🎯
 
-I primarily write code in Java, using Spring Boot as my framework of choice, and specialize in microservices-based applications. Additionally, I have experience with front-end technologies like jQuery, Angular, HTML, and CSS, as well as programming languages such as Python, TypeScript, and JavaScript. I'm passionate about learning Cloud-Native technologies and hold two Google Cloud certifications: Associate Cloud Engineer and Professional Cloud Architect. ☁️🚀
+I primarily write code in Java, using Spring Boot as my framework of choice, and specialize in microservices-based applications. Additionally, I have experience with front-end technologies like jQuery, Angular, HTML, and CSS, as well as programming languages such as Python, TypeScript, and JavaScript. I'm passionate about learning Cloud-Native technologies and hold two Google Cloud certifications: [Associate Cloud Engineer](https://www.credly.com/badges/a4a68140-7ae5-4f9f-9367-0feab898de29) and [Professional Cloud Architect](https://www.credly.com/badges/28e58ecf-b240-4b9d-8351-a9e8885ccb1e). ☁️🚀
 
 
 <p float="left">
@@ -69,7 +69,8 @@ I primarily write code in Java, using Spring Boot as my framework of choice, and
   ⦿ Do visit my [Blog](https://thedeveloperstory.com) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/viveknaskar/) 👨 ‍💻 <br>
   ⦿ Follow me on [Instagram](https://www.instagram.com/thedeveloperstory/) 📷 <br>
-  ⦿ I am also on [Twitter](https://twitter.com/vivek_naskar) 🐦 <br>
+  ⦿ I am also on [𝕏](https://x.com/vivek_naskar) 🐦 <br>
   ⦿ I am one of the top 2000 writers on [Medium](https://viveknaskar.medium.com/) ✍️ <br>
 
+  ## Buy Me a Coffee
 <a href="https://buymeacoffee.com/viveknaskar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 216px !important;" ></a>
