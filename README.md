@@ -23,7 +23,7 @@ I primarily write code in Java, using Spring Boot as my framework of choice, and
   </a>
   
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/k8s.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/k8s.gif"  height="80" />
   </a>
 
   <a href="https://www.javascript.com/" target="_blank" >
@@ -54,6 +54,10 @@ I primarily write code in Java, using Spring Boot as my framework of choice, and
    
   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
+  </a>
+
+<a href="https://redis.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/redis.gif" height="90" />&nbsp;&nbsp;
   </a> 
 </p>
 
