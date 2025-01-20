@@ -5,7 +5,6 @@ This is Vivek, a senior software developer with a strong interest in cloud and c
 
 I primarily write code in Java, using Spring Boot as my framework of choice, and specialize in microservices-based applications. Additionally, I have experience with front-end technologies like jQuery, Angular, HTML, and CSS, as well as programming languages such as Python, TypeScript, and JavaScript. I'm passionate about learning Cloud-Native technologies and hold two Google Cloud certifications: [Associate Cloud Engineer](https://www.credly.com/badges/a4a68140-7ae5-4f9f-9367-0feab898de29) and [Professional Cloud Architect](https://www.credly.com/badges/28e58ecf-b240-4b9d-8351-a9e8885ccb1e). ☁️🚀
 
-
 <p float="left">
    <a href="https://www.java.com/en/" target="_blank" >
        <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/java.gif"  height="80" /> 
@@ -62,7 +61,6 @@ I primarily write code in Java, using Spring Boot as my framework of choice, and
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&layout=compact&theme=buefy&hide_border=true&langs_count=7)
 <br>
----
 
 ## Connect With Me
 
