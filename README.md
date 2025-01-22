@@ -57,8 +57,10 @@ I primarily write code in Java, using Spring Boot as my framework of choice, and
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&layout=compact&theme=buefy&hide_border=true&langs_count=7)
 <br>
 
-## GitHub Stats
+## GitHub Stats & Summary
 ![viveknaskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viveknaskar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
+
+![viveknaskar's GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viveknaskar&theme=monokai)
 
 ## Connect With Me
 - Do visit my [Blog](https://thedeveloperstory.com) 🌐
