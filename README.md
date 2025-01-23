@@ -54,7 +54,7 @@ I primarily write code in Java, using Spring Boot as my framework of choice, and
 </p>
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&layout=compact&theme=buefy&hide_border=true&langs_count=7)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&layout=compact&theme=darcula&hide_border=true&background=FFFFFF00&langs_count=7)
 <br>
 
 ## GitHub Stats & Summary
