@@ -63,11 +63,12 @@ I primarily write code in Java, using Spring Boot as my framework of choice, and
 ![viveknaskar's GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viveknaskar&theme=monokai)
 
 ## Connect With Me
-- Do visit my [Blog](https://thedeveloperstory.com) 🌐
+- I post a lot on [𝕏](https://x.com/vivek_naskar) 🐦
+- I often write on [Blog](https://thedeveloperstory.com) 🌐
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/viveknaskar/) 👨‍💻
 - Follow me on [Instagram](https://www.instagram.com/thedeveloperstory/) 📷
-- I am also on [𝕏](https://x.com/vivek_naskar) 🐦
-- I am one of the top 2000 writers on [Medium](https://viveknaskar.medium.com/) ✍️
+- I also write on [Medium](https://viveknaskar.medium.com/) ✍️
 
 ## Buy Me a Coffee
-<a href="https://buymeacoffee.com/viveknaskar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 216px !important;" ></a>
+
+<a href="https://buymeacoffee.com/viveknaskar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 216px !important;" ></a>
