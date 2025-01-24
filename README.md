@@ -1,5 +1,6 @@
 ### Hey Guys! 👋
-![](https://komarev.com/ghpvc/?username=viveknaskar&color=blue)
+![](https://komarev.com/ghpvc/?username=viveknaskar&color=blue) [![GitHub VivekNaskar](https://img.shields.io/github/followers/viveknaskar?label=follow&style=social)](https://github.com/viveknaskar)
+
 
 This is Vivek, a senior software developer with a strong interest in cloud and cloud-native technologies. 🎯
 
