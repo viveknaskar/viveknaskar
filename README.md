@@ -66,11 +66,13 @@ In addition, I’ve been exploring machine learning and have been developing app
 ![viveknaskar's GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viveknaskar&theme=monokai)
 
 ## Connect With Me
-- I post a lot on [𝕏](https://x.com/vivek_naskar) 🐦
-- I often write on [Blog](https://thedeveloperstory.com) 🌐
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/viveknaskar/) 👨‍💻
-- Follow me on [Instagram](https://www.instagram.com/thedeveloperstory/) 📷
-- I also write on [Medium](https://viveknaskar.medium.com/) ✍️
+- I share tech insights, opinions, and memes on [𝕏](https://x.com/vivek_naskar)
+- Occasionally, I post on [Medium](https://viveknaskar.medium.com/)
+- Let’s connect on [LinkedIn](https://www.linkedin.com/in/viveknaskar/) 
+- Behind-the-scenes and byte-sized updates on [Instagram](https://www.instagram.com/thedeveloperstory/)
+- I write detailed posts (and share my experiments) on my [Blog](https://thedeveloperstory.com)
+- I also have a [YouTube channel](https://www.youtube.com/@thedeveloperstory) where I share videos on tech, tools, memes, and developer life
+
 
 ## Buy Me a Coffee
 
