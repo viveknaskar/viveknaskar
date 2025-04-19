@@ -2,9 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=viveknaskar&color=blue) [![GitHub VivekNaskar](https://img.shields.io/github/followers/viveknaskar?label=follow&style=social)](https://github.com/viveknaskar)
 
 
-This is Vivek, a senior software developer with a strong interest in cloud and cloud-native technologies. 🎯
+This is Vivek, a senior software developer with a strong interest in cloud and cloud-native technologies.
 
-I primarily write code in Java, using Spring Boot as my framework of choice, and specialize in microservices-based applications. Additionally, I have experience with front-end technologies like jQuery, Angular, HTML, and CSS, as well as programming languages such as Python, TypeScript, and JavaScript. I'm passionate about learning Cloud-Native technologies and hold two Google Cloud certifications: [Associate Cloud Engineer](https://www.credly.com/badges/a4a68140-7ae5-4f9f-9367-0feab898de29) and [Professional Cloud Architect](https://www.credly.com/badges/28e58ecf-b240-4b9d-8351-a9e8885ccb1e). ☁️🚀
+I primarily write code in Java, using Spring Boot as my framework of choice, and specialize in microservices-based applications. I also have experience with front-end technologies like jQuery, React, HTML5, CSS, and Tailwind CSS, as well as programming languages such as Python, TypeScript, and JavaScript. I'm passionate about cloud-native technologies and hold two Google Cloud certifications: [Associate Cloud Engineer](https://www.credly.com/badges/a4a68140-7ae5-4f9f-9367-0feab898de29) and [Professional Cloud Architect](https://www.credly.com/badges/28e58ecf-b240-4b9d-8351-a9e8885ccb1e). ☁️🚀
+
+In addition, I’ve been exploring machine learning and have been developing applications or experimenting with different LLMs in my free time.
 
 ## Technologies & Tools
 <p align="left">
