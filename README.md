@@ -71,8 +71,14 @@ In addition, I’ve been exploring machine learning and have been developing app
 - Let’s connect on [LinkedIn](https://www.linkedin.com/in/viveknaskar/) 
 - Behind-the-scenes and byte-sized updates on [Instagram](https://www.instagram.com/thedeveloperstory/)
 - I write detailed posts (and share my experiments) on my [Blog](https://thedeveloperstory.com)
-- I also have a [YouTube channel](https://www.youtube.com/@thedeveloperstory) where I share videos on tech, tools, memes, and developer life
+- I also have a [YouTube channel](https://www.youtube.com/@thedeveloperstory) where I share videos on tech, tools, memes, and developer life.
 
+<a href="http://youtube.com/@thedeveloperstory?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/views/UCS2fGD5aA3IAD1EG8C58Eaw?style=for-the-badge&logo=youtube&label=Youtube%20Views&color=0000FF" alt="Vivek Naskar's YouTube channel"/>
+</a>
+<a href="http://youtube.com/@thedeveloperstory?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCS2fGD5aA3IAD1EG8C58Eaw?style=for-the-badge&logo=youtube&label=Youtube%20Subscribers&color=FF0000" alt="Vivek Naskar's YouTube channel"/>
+</a>
 
 ## Buy Me a Coffee
 
