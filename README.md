@@ -56,13 +56,7 @@ In addition, I’ve been exploring machine learning and have been developing app
    </a>
 </p>
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&layout=compact&theme=darcula&hide_border=true&background=FFFFFF00&langs_count=7)
-<br>
-
-## GitHub Stats & Summary
-![viveknaskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viveknaskar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
-
+## GitHub Summary
 ![viveknaskar's GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viveknaskar&theme=monokai)
 
 ## Connect With Me
