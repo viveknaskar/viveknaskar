@@ -68,15 +68,11 @@ In addition, I've been exploring machine learning and have been developing appli
    </a>
 </p>
 
-## Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=viveknaskar&theme=darkhub&no-frame=true&row=1&column=7)
-
 ## GitHub Stats & Summary
-![viveknaskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viveknaskar&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=viveknaskar&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknaskar&layout=compact&theme=darcula&hide_border=true&background=FFFFFF00&langs_count=7)
+![viveknaskar's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viveknaskar&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viveknaskar&theme=github_dark)
 
 ![viveknaskar's GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viveknaskar&theme=github_dark)
 
