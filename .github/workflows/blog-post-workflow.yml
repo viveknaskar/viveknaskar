@@ -1,0 +1,21 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:       # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: >
+            https://medium.com/feed/@viveknaskar,
+            https://savvymonk.beehiiv.com/feed
+          max_post_count: 6
+          readme_path: README.md
+          comment_tag_name: BLOG-POST-LIST
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
