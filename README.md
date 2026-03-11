@@ -40,9 +40,6 @@ In addition, I've been exploring machine learning and have been developing appli
    <a href="https://www.javascript.com/" target="_blank">
        <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/js.gif" height="80" />
    </a>
-   <a href="https://html.com/" target="_blank">
-       <img src="https://raw.githubusercontent.com/viveknaskar/viveknaskar/master/assets/html.gif" height="80" />
-   </a>
 </p>
 
 ## Cloud Service Providers
