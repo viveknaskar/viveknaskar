@@ -78,7 +78,7 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viveknaskar&theme=react-dark&hide_border=true)
 
-## Latest Posts
+## Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
 - [Why OpenAI And Anthropic Are Fighting &lpar;And How It Got This Ugly&rpar;](https://levelup.gitconnected.com/why-openai-and-anthropic-are-fighting-and-how-it-got-this-ugly-cdb996b1c77d?source=rss-873738f2db55------2)
 - [ChatGPT Is Now Guessing Your Age](https://levelup.gitconnected.com/chatgpt-is-now-guessing-your-age-cb082562033b?source=rss-873738f2db55------2)
@@ -87,6 +87,10 @@ In addition, I've been exploring machine learning and have been developing appli
 - [Why the AI Industry Is “Digging the Wrong Trench” And What True Intelligence Really Needs](https://levelup.gitconnected.com/why-the-ai-industry-is-digging-the-wrong-trench-and-what-true-intelligence-really-needs-ef7b63acee2f?source=rss-873738f2db55------2)
 - [Despite All These Technological Advancements, We’re Still Dealing With Critical Vulnerabilities](https://levelup.gitconnected.com/despite-all-these-technological-advancements-were-still-dealing-with-critical-vulnerabilities-917134c48f8b?source=rss-873738f2db55------2)
 <!-- BLOG-POST-LIST:END -->
+
+## Latest Newsletter Issues
+<!-- NEWSLETTER-POST-LIST:START -->
+<!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
 - I share tech insights, opinions, and memes on [𝕏](https://x.com/vivek_naskar)
