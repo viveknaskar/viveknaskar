@@ -18,7 +18,7 @@ jobs:
           readme_path: README.md
           comment_tag_name: BLOG-POST-LIST
           gh_token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Update Savvy Monk newsletter issues
+      - name: Update SavvyMonk newsletter issues
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://rss.beehiiv.com/feeds/nx1n9qTLoA.xml"
