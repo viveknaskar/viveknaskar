@@ -90,12 +90,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [A Man With No Biology Degree Used ChatGPT to Build a Cancer Vaccine for His Dying Dog](https://savvymonk.beehiiv.com/p/a-man-with-no-biology-degree-used-chatgpt-to-build-a-cancer-vaccine-for-his-dying-dog)
 - [Your Reading is Useless if You&#39;re Not Doing This One Thing](https://savvymonk.beehiiv.com/p/your-reading-is-useless-if-you-re-not-doing-this-one-thing)
 - [Microsoft&#39;s Biggest Copilot Update Runs on the AI That Tanked Its Stock](https://savvymonk.beehiiv.com/p/microsoft-s-biggest-copilot-update-runs-on-the-ai-that-tanked-its-stock)
 - [The U.S. Supreme Court Just Told Every AI Creator Their Work Belongs to No One](https://savvymonk.beehiiv.com/p/the-u-s-supreme-court-just-told-every-ai-creator-their-work-belongs-to-no-one)
 - [Dario Amodei Just Unloaded on Sam Altman in a Leaked Memo](https://savvymonk.beehiiv.com/p/dario-amodei-just-unloaded-on-sam-altman-in-a-leaked-memo)
 - [OpenAI just Shipped GPT-5.4 and it&#39;s Not What you Expected](https://savvymonk.beehiiv.com/p/openai-just-shipped-gpt-5-4-and-it-s-not-what-you-expected)
-- [Google Ships Gemini 3.1 Flash-Lite. OpenAI Ships GPT-5.3 Instant.](https://savvymonk.beehiiv.com/p/google-ships-gemini-3-1-flash-lite-openai-ships-gpt-5-3-instant)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
