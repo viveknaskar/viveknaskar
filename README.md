@@ -105,7 +105,7 @@ In addition, I've been exploring machine learning and have been developing appli
 - Behind-the-scenes and byte-sized updates on [Instagram](https://www.instagram.com/thedeveloperstory/)
 - I write detailed posts (and share my experiments) on my [Blog](https://thedeveloperstory.com)
 - I also have a [YouTube channel](https://www.youtube.com/@thedeveloperstory) where I share videos on tech, tools, memes, and developer life.
-- Subscribe to my newsletter on [Beehiiv](https://savvymonk.beehiiv.com/) 📬
+- Subscribe to my free newsletter on [Beehiiv](https://savvymonk.beehiiv.com/) 
 
 <a href="https://youtube.com/@thedeveloperstory?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/views/UCS2fGD5aA3IAD1EG8C58Eaw?style=for-the-badge&logo=youtube&label=Youtube%20Views&color=0000FF" alt="Vivek Naskar's YouTube channel"/>
@@ -113,8 +113,14 @@ In addition, I've been exploring machine learning and have been developing appli
 <a href="https://youtube.com/@thedeveloperstory?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCS2fGD5aA3IAD1EG8C58Eaw?style=for-the-badge&logo=youtube&label=Youtube%20Subscribers&color=FF0000" alt="Vivek Naskar's YouTube channel"/>
 </a>
+<a href="https://viveknaskar.medium.com/">
+    <img src="https://img.shields.io/badge/Medium%20Followers-3.2K-black?style=for-the-badge&logo=medium&logoColor=white" alt="Vivek Naskar's Medium profile"/>
+</a>
+<a href="https://x.com/vivek_naskar">
+    <img src="https://img.shields.io/badge/X%20Followers-9.1K-black?style=for-the-badge&logo=x&logoColor=white" alt="Vivek Naskar's X profile"/>
+</a>
 <a href="https://savvymonk.beehiiv.com/?utm_source=github&utm_medium=profile">
-    <img src="https://img.shields.io/badge/Newsletter-Subscribe-orange?style=for-the-badge&logo=maildotru&logoColor=white" alt="Subscribe to Savvy Monk newsletter"/>
+    <img src="https://img.shields.io/badge/Beehiiv%20Subscribers-71-orange?style=for-the-badge&logo=maildotru&logoColor=white" alt="SavvyMonk newsletter subscribers"/>
 </a>
 
 ## Buy Me a Coffee
