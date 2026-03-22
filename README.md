@@ -123,5 +123,6 @@ In addition, I've been exploring machine learning and have been developing appli
     <img src="https://img.shields.io/badge/Beehiiv%20Subscribers-71-orange?style=for-the-badge&logo=maildotru&logoColor=white" alt="SavvyMonk newsletter subscribers"/>
 </a>
 
-## Buy Me a Coffee
+## Support
 <a href="https://buymeacoffee.com/viveknaskar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 216px !important;" ></a>
+<a href="https://github.com/sponsors/viveknaskar" target="_blank"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" style="height: 60px !important;" ></a>
