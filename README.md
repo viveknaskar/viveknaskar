@@ -90,12 +90,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [OpenAI Spent Millions on a Health AI That Just Tells You to See a Doctor](https://savvymonk.beehiiv.com/p/openai-spent-millions-on-a-health-ai-that-just-tells-you-to-see-a-doctor)
 - [Microsoft Threatens to Sue OpenAI for Letting Amazon Host Its Enterprise AI Platform](https://savvymonk.beehiiv.com/p/microsoft-threatens-to-sue-openai-for-letting-amazon-host-its-enterprise-ai-platform)
 - [OpenAI Declares “Code Red” After Anthropic Takes Over the Business AI Market](https://savvymonk.beehiiv.com/p/openai-declares-code-red-after-anthropic-takes-over-the-business-ai-market)
 - [Your PokéWalks Helped Robots Learn the Streets](https://savvymonk.beehiiv.com/p/your-pok-walks-helped-robots-learn-the-streets)
 - [A Robot Just Got Arrested in Macau But Nobody Knows What Law It Broke](https://savvymonk.beehiiv.com/p/a-robot-just-got-arrested-in-macau-but-nobody-knows-what-law-it-broke)
 - [A Man With No Biology Degree Used ChatGPT to Build a Cancer Vaccine for His Dying Dog](https://savvymonk.beehiiv.com/p/a-man-with-no-biology-degree-used-chatgpt-to-build-a-cancer-vaccine-for-his-dying-dog)
-- [Your Reading is Useless if You&#39;re Not Doing This One Thing](https://savvymonk.beehiiv.com/p/your-reading-is-useless-if-you-re-not-doing-this-one-thing)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
