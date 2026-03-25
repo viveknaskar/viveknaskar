@@ -120,7 +120,7 @@ In addition, I've been exploring machine learning and have been developing appli
     <img src="https://img.shields.io/badge/X%20Followers-9.1K-black?style=for-the-badge&logo=x&logoColor=white" alt="Vivek Naskar's X profile"/>
 </a>
 <a href="https://savvymonk.beehiiv.com/?utm_source=github&utm_medium=profile">
-    <img src="https://img.shields.io/badge/Beehiiv%20Subscribers-71-orange?style=for-the-badge&logo=maildotru&logoColor=white" alt="SavvyMonk newsletter subscribers"/>
+    <img src="https://img.shields.io/badge/Beehiiv%20Subscribers-92-orange?style=for-the-badge&logo=maildotru&logoColor=white" alt="SavvyMonk newsletter subscribers"/>
 </a>
 
 ## Support
