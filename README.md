@@ -80,7 +80,7 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Is Fighting A Dual War, And It’s Losing In Both](https://viveknaskar.medium.com/openai-is-fighting-a-dual-war-and-its-losing-in-both-9f144efb1522?source=rss-873738f2db55------2)
+- [OpenAI Is Fighting A Dual War, And It’s Losing In Both](https://levelup.gitconnected.com/openai-is-fighting-a-dual-war-and-its-losing-in-both-9f144efb1522?source=rss-873738f2db55------2)
 - [Why OpenAI And Anthropic Are Fighting &lpar;And How It Got This Ugly&rpar;](https://levelup.gitconnected.com/why-openai-and-anthropic-are-fighting-and-how-it-got-this-ugly-cdb996b1c77d?source=rss-873738f2db55------2)
 - [ChatGPT Is Now Guessing Your Age](https://levelup.gitconnected.com/chatgpt-is-now-guessing-your-age-cb082562033b?source=rss-873738f2db55------2)
 - [Hollywood Is Panicking With The New AI Model That Creates Realistic “Movie-Like” Videos](https://levelup.gitconnected.com/hollywood-is-panicking-with-the-new-ai-model-that-creates-realistic-movie-like-videos-bfd9896e9045?source=rss-873738f2db55------2)
