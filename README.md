@@ -90,12 +90,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Jeff Bezos Wants to Put 51,600 Data Centers in Space](https://savvymonk.beehiiv.com/p/jeff-bezos-wants-to-put-51-600-data-centers-in-space)
 - [Zuckerberg Is Building an AI Agent to Do His Job For Him](https://savvymonk.beehiiv.com/p/zuckerberg-is-building-an-ai-agent-to-do-his-job-for-him)
 - [Elon Musk Wants to Build the World&#39;s Biggest Chip Factory](https://savvymonk.beehiiv.com/p/elon-musk-wants-to-build-the-world-s-biggest-chip-factory)
 - [Anthropic Used Its AI to Interview 80,000 People About AI. The #1 Fear Wasn&#39;t Job Loss.](https://savvymonk.beehiiv.com/p/anthropic-used-its-ai-to-interview-80-000-people-about-ai-the-1-fear-wasn-t-job-loss)
 - [Your Water Bottle Can Now Treat Parkinson&#39;s Disease](https://savvymonk.beehiiv.com/p/your-water-bottle-can-now-treat-parkinson-s-disease)
 - [Anthropic&#39;s Most Powerful AI Helped With Chemical Weapons Research](https://savvymonk.beehiiv.com/p/anthropic-s-most-powerful-ai-helped-with-chemical-weapons-research)
-- [OpenAI Spent Millions on a Health AI That Just Tells You to See a Doctor](https://savvymonk.beehiiv.com/p/openai-spent-millions-on-a-health-ai-that-just-tells-you-to-see-a-doctor)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
