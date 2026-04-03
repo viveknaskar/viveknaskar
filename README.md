@@ -90,12 +90,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Oracle Fired 30,000 People to Pay for AI Servers](https://savvymonk.beehiiv.com/p/oracle-fired-30-000-people-to-pay-for-ai-servers)
 - [Someone Accidentally Leaked the Complete Source Code and Now Anthropic is in Shambles](https://savvymonk.beehiiv.com/p/someone-accidentally-leaked-the-complete-source-code-and-now-anthropic-is-in-shambles)
 - [Anthropic Accidentally Leaked its Most Powerful AI and It&#39;s Kind of Terrifying](https://savvymonk.beehiiv.com/p/anthropic-accidentally-leaked-its-most-powerful-ai-and-it-s-kind-of-terrifying)
 - [ChatGPT Turned on Ads Six Weeks Ago and it&#39;s Already Printing Truckloads of Cash](https://savvymonk.beehiiv.com/p/chatgpt-turned-on-ads-six-weeks-ago-and-it-s-already-printing-truckloads-of-cash)
 - [OpenAI Just Killed Three Products in One Week](https://savvymonk.beehiiv.com/p/openai-just-killed-three-products-in-one-week)
 - [Jeff Bezos Wants to Put 51,600 Data Centers in Space](https://savvymonk.beehiiv.com/p/jeff-bezos-wants-to-put-51-600-data-centers-in-space)
-- [Zuckerberg Is Building an AI Agent to Do His Job For Him](https://savvymonk.beehiiv.com/p/zuckerberg-is-building-an-ai-agent-to-do-his-job-for-him)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
