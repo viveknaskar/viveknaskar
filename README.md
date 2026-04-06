@@ -90,12 +90,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Anthropic Looked Inside Claude and Found Something It Wasn&#39;t Expecting](https://savvymonk.beehiiv.com/p/anthropic-looked-inside-claude-and-found-something-it-wasn-t-expecting)
 - [Ex-Twitter Founder Fired the Middle Manager in his New Company Saying AI Does The Job Now](https://savvymonk.beehiiv.com/p/ex-twitter-founder-just-fired-the-middle-manager-in-his-new-company-saying-ai-does-the-job-now)
 - [Oracle Fired 30,000 People to Pay for AI Servers](https://savvymonk.beehiiv.com/p/oracle-fired-30-000-people-to-pay-for-ai-servers)
 - [Someone Accidentally Leaked the Complete Source Code and Now Anthropic is in Shambles](https://savvymonk.beehiiv.com/p/someone-accidentally-leaked-the-complete-source-code-and-now-anthropic-is-in-shambles)
 - [Anthropic Accidentally Leaked its Most Powerful AI and It&#39;s Kind of Terrifying](https://savvymonk.beehiiv.com/p/anthropic-accidentally-leaked-its-most-powerful-ai-and-it-s-kind-of-terrifying)
 - [ChatGPT Turned on Ads Six Weeks Ago and it&#39;s Already Printing Truckloads of Cash](https://savvymonk.beehiiv.com/p/chatgpt-turned-on-ads-six-weeks-ago-and-it-s-already-printing-truckloads-of-cash)
-- [OpenAI Just Killed Three Products in One Week](https://savvymonk.beehiiv.com/p/openai-just-killed-three-products-in-one-week)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
