@@ -108,21 +108,15 @@ In addition, I've been exploring machine learning and have been developing appli
 - Subscribe to my free newsletter on [Beehiiv](https://savvymonk.beehiiv.com/) 
 
 <a href="https://youtube.com/@thedeveloperstory?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/views/UCS2fGD5aA3IAD1EG8C58Eaw?style=for-the-badge&logo=youtube&label=Youtube%20Views&color=0000FF" alt="Vivek Naskar's YouTube channel"/>
-</a>
-<a href="https://youtube.com/@thedeveloperstory?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCS2fGD5aA3IAD1EG8C58Eaw?style=for-the-badge&logo=youtube&label=Youtube%20Subscribers&color=FF0000" alt="Vivek Naskar's YouTube channel"/>
 </a>
 <a href="https://viveknaskar.medium.com/">
     <img src="https://img.shields.io/badge/Medium%20Followers-3.2K-black?style=for-the-badge&logo=medium&logoColor=white" alt="Vivek Naskar's Medium profile"/>
 </a>
-<a href="https://x.com/vivek_naskar">
-    <img src="https://img.shields.io/badge/X%20Followers-9.1K-black?style=for-the-badge&logo=x&logoColor=white" alt="Vivek Naskar's X profile"/>
-</a>
 <a href="https://savvymonk.beehiiv.com/?utm_source=github&utm_medium=profile">
-    <img src="https://img.shields.io/badge/Beehiiv%20Subscribers-92-orange?style=for-the-badge&logo=maildotru&logoColor=white" alt="SavvyMonk newsletter subscribers"/>
+    <img src="https://img.shields.io/badge/Beehiiv%20Subscribers-112-orange?style=for-the-badge&logo=maildotru&logoColor=white" alt="SavvyMonk newsletter subscribers"/>
 </a>
 
 ## Support
-<a href="https://buymeacoffee.com/viveknaskar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 216px !important;" ></a>
-<a href="https://github.com/sponsors/viveknaskar" target="_blank"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" style="height: 60px !important;" ></a>
+<a href="https://buymeacoffee.com/viveknaskar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;" ></a>
+<a href="https://github.com/sponsors/viveknaskar" target="_blank"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" style="height: 30px !important;" ></a>

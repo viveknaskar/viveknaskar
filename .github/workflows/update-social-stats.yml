@@ -17,12 +17,13 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          pip install requests playwright
-          playwright install chromium
+        run: pip install requests
 
       - name: Update social stats
         run: python scripts/update_social_stats.py
+        env:
+          BEEHIIV_API_KEY: ${{ secrets.BEEHIIV_API_KEY }}
+          BEEHIIV_PUBLICATION_ID: ${{ secrets.BEEHIIV_PUBLICATION_ID }}
 
       - name: Commit changes
         run: |
