@@ -90,12 +90,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Guy &lpar;and His Brother&rpar; Built a $1.8 Billion Company With $20K and No Employees](https://savvymonk.beehiiv.com/p/one-guy-and-his-brother-built-a-1-8-billion-company-with-20k-and-no-employees)
 - [Japan Wants to Wrap the Moon in Solar Panels](https://savvymonk.beehiiv.com/p/japan-wants-to-wrap-the-moon-in-solar-panels)
 - [Anthropic Killed OpenClaw Weeks After Its Creator Joined OpenAI](https://savvymonk.beehiiv.com/p/anthropic-killed-openclaw-weeks-after-its-creator-joined-openai)
 - [100+ Robot Taxis Just Froze in the Middle of Rush Hour](https://savvymonk.beehiiv.com/p/100-robot-taxis-just-froze-in-the-middle-of-rush-hour)
 - [Anthropic Looked Inside Claude and Found Something It Wasn&#39;t Expecting](https://savvymonk.beehiiv.com/p/anthropic-looked-inside-claude-and-found-something-it-wasn-t-expecting)
 - [Ex-Twitter Founder Fired the Middle Manager in his New Company Saying AI Does The Job Now](https://savvymonk.beehiiv.com/p/ex-twitter-founder-just-fired-the-middle-manager-in-his-new-company-saying-ai-does-the-job-now)
-- [Oracle Fired 30,000 People to Pay for AI Servers](https://savvymonk.beehiiv.com/p/oracle-fired-30-000-people-to-pay-for-ai-servers)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
