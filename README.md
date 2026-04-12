@@ -90,12 +90,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [OpenAI Has a Plan for the AI Age. It Includes a Shorter Workweek and a Public Wealth Fund.](https://savvymonk.beehiiv.com/p/openai-has-a-plan-for-the-ai-age-it-includes-a-shorter-workweek-and-a-public-wealth-fund)
+- [Meta Ditched Open Source and Built Its Best AI Model Yet](https://savvymonk.beehiiv.com/p/meta-ditched-open-source-and-built-its-best-ai-model-yet)
 - [Anthropic Built a Model So Powerful It Refused to Release It](https://savvymonk.beehiiv.com/p/anthropic-built-a-model-so-powerful-it-refused-to-release-it)
 - [One Guy &lpar;and His Brother&rpar; Built a $1.8 Billion Company With $20K and No Employees](https://savvymonk.beehiiv.com/p/one-guy-and-his-brother-built-a-1-8-billion-company-with-20k-and-no-employees)
 - [Japan Wants to Wrap the Moon in Solar Panels](https://savvymonk.beehiiv.com/p/japan-wants-to-wrap-the-moon-in-solar-panels)
 - [Anthropic Killed OpenClaw Weeks After Its Creator Joined OpenAI](https://savvymonk.beehiiv.com/p/anthropic-killed-openclaw-weeks-after-its-creator-joined-openai)
-- [100+ Robot Taxis Just Froze in the Middle of Rush Hour](https://savvymonk.beehiiv.com/p/100-robot-taxis-just-froze-in-the-middle-of-rush-hour)
-- [Anthropic Looked Inside Claude and Found Something It Wasn&#39;t Expecting](https://savvymonk.beehiiv.com/p/anthropic-looked-inside-claude-and-found-something-it-wasn-t-expecting)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
