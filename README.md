@@ -100,7 +100,6 @@ In addition, I've been exploring machine learning and have been developing appli
 <a href="https://viveknaskar.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 <a href="https://www.linkedin.com/in/viveknaskar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/thedeveloperstory/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://thedeveloperstory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/></a>
 <a href="https://www.youtube.com/@thedeveloperstory" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://savvymonk.beehiiv.com/" target="_blank"><img src="https://img.shields.io/badge/Newsletter-FF6B35?style=for-the-badge&logo=maildotru&logoColor=white" alt="Beehiiv Newsletter"/></a>
 <a href="https://www.threads.com/@thedeveloperstory" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
