@@ -96,23 +96,15 @@ In addition, I've been exploring machine learning and have been developing appli
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
-- I share tech insights, opinions, and memes on [𝕏](https://x.com/vivek_naskar)
-- Occasionally, I post on [Medium](https://viveknaskar.medium.com/)
-- Let's connect on [LinkedIn](https://www.linkedin.com/in/viveknaskar/)
-- Behind-the-scenes and byte-sized updates on [Instagram](https://www.instagram.com/thedeveloperstory/)
-- I write detailed posts (and share my experiments) on my [Blog](https://thedeveloperstory.com)
-- I also have a [YouTube channel](https://www.youtube.com/@thedeveloperstory) where I share videos on tech, tools, memes, and developer life.
-- Subscribe to my free newsletter on [Beehiiv](https://savvymonk.beehiiv.com/) 
-
-<a href="https://youtube.com/@thedeveloperstory?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCS2fGD5aA3IAD1EG8C58Eaw?style=for-the-badge&logo=youtube&label=Youtube%20Subscribers&color=FF0000" alt="Vivek Naskar's YouTube channel"/>
-</a>
-<a href="https://viveknaskar.medium.com/">
-    <img src="https://img.shields.io/badge/Medium%20Followers-3.2K-black?style=for-the-badge&logo=medium&logoColor=white" alt="Vivek Naskar's Medium profile"/>
-</a>
-<a href="https://savvymonk.beehiiv.com/?utm_source=github&utm_medium=profile">
-    <img src="https://img.shields.io/badge/Beehiiv%20Subscribers-112-orange?style=for-the-badge&logo=maildotru&logoColor=white" alt="SavvyMonk newsletter subscribers"/>
-</a>
+<a href="https://x.com/vivek_naskar" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://viveknaskar.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://www.linkedin.com/in/viveknaskar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/thedeveloperstory/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://thedeveloperstory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/></a>
+<a href="https://www.youtube.com/@thedeveloperstory" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://savvymonk.beehiiv.com/" target="_blank"><img src="https://img.shields.io/badge/Newsletter-FF6B35?style=for-the-badge&logo=maildotru&logoColor=white" alt="Beehiiv Newsletter"/></a>
+<a href="https://www.threads.com/@thedeveloperstory" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
+<a href="https://peerlist.io/viveknaskar" target="_blank"><img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist"/></a>
 
 ## Support
 <a href="https://buymeacoffee.com/viveknaskar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;" ></a>
