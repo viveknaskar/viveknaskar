@@ -77,12 +77,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
-- [The AI Excuse Is Getting Old, But It Is Still Working](https://levelup.gitconnected.com/the-ai-excuse-is-getting-old-but-it-is-still-working-4576bc9a9eb4?source=rss-873738f2db55------2)
-- [The Curious Case of Anthropic’s Claude](https://levelup.gitconnected.com/the-curious-case-of-anthropics-claude-09287546c030?source=rss-873738f2db55------2)
-- [OpenAI Is Fighting A Dual War, And It’s Losing In Both](https://levelup.gitconnected.com/openai-is-fighting-a-dual-war-and-its-losing-in-both-9f144efb1522?source=rss-873738f2db55------2)
-- [Why OpenAI And Anthropic Are Fighting &lpar;And How It Got This Ugly&rpar;](https://levelup.gitconnected.com/why-openai-and-anthropic-are-fighting-and-how-it-got-this-ugly-cdb996b1c77d?source=rss-873738f2db55------2)
-- [ChatGPT Is Now Guessing Your Age](https://levelup.gitconnected.com/chatgpt-is-now-guessing-your-age-cb082562033b?source=rss-873738f2db55------2)
-- [Hollywood Is Panicking With The New AI Model That Creates Realistic “Movie-Like” Videos](https://levelup.gitconnected.com/hollywood-is-panicking-with-the-new-ai-model-that-creates-realistic-movie-like-videos-bfd9896e9045?source=rss-873738f2db55------2)
+- [The AI Excuse Is Getting Old, But It Is Still Working](https://medium.com/gitconnected/the-ai-excuse-is-getting-old-but-it-is-still-working-4576bc9a9eb4?source=rss-873738f2db55------2)
+- [The Curious Case of Anthropic’s Claude](https://medium.com/gitconnected/the-curious-case-of-anthropics-claude-09287546c030?source=rss-873738f2db55------2)
+- [OpenAI Is Fighting A Dual War, And It’s Losing In Both](https://medium.com/gitconnected/openai-is-fighting-a-dual-war-and-its-losing-in-both-9f144efb1522?source=rss-873738f2db55------2)
+- [Why OpenAI And Anthropic Are Fighting &lpar;And How It Got This Ugly&rpar;](https://medium.com/gitconnected/why-openai-and-anthropic-are-fighting-and-how-it-got-this-ugly-cdb996b1c77d?source=rss-873738f2db55------2)
+- [ChatGPT Is Now Guessing Your Age](https://medium.com/gitconnected/chatgpt-is-now-guessing-your-age-cb082562033b?source=rss-873738f2db55------2)
+- [Hollywood Is Panicking With The New AI Model That Creates Realistic “Movie-Like” Videos](https://medium.com/gitconnected/hollywood-is-panicking-with-the-new-ai-model-that-creates-realistic-movie-like-videos-bfd9896e9045?source=rss-873738f2db55------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Newsletter Issues
