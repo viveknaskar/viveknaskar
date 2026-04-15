@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [The AI Companies Have Been Lying to the Courts. Researchers Just Proved It.](https://savvymonk.beehiiv.com/p/the-ai-companies-have-been-lying-to-the-courts-researchers-just-proved-it)
 - [No Drug Has Ever Been Approved to Slow Aging. One Startup Is Getting Close.](https://savvymonk.beehiiv.com/p/no-drug-has-ever-been-approved-to-slow-aging-one-startup-is-getting-close)
 - [OpenAI Has a Plan for the AI Age. It Includes a Shorter Workweek and a Public Wealth Fund.](https://savvymonk.beehiiv.com/p/openai-has-a-plan-for-the-ai-age-it-includes-a-shorter-workweek-and-a-public-wealth-fund)
 - [Meta Ditched Open Source and Built Its Best AI Model Yet](https://savvymonk.beehiiv.com/p/meta-ditched-open-source-and-built-its-best-ai-model-yet)
 - [Anthropic Built a Model So Powerful It Refused to Release It](https://savvymonk.beehiiv.com/p/anthropic-built-a-model-so-powerful-it-refused-to-release-it)
 - [One Guy &lpar;and His Brother&rpar; Built a $1.8 Billion Company With $20K and No Employees](https://savvymonk.beehiiv.com/p/one-guy-and-his-brother-built-a-1-8-billion-company-with-20k-and-no-employees)
-- [Japan Wants to Wrap the Moon in Solar Panels](https://savvymonk.beehiiv.com/p/japan-wants-to-wrap-the-moon-in-solar-panels)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
