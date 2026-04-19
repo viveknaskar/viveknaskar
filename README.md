@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [This Startup Built a Beanie That Lets You Type With Your Thoughts](https://savvymonk.beehiiv.com/p/this-startup-built-a-beanie-that-lets-you-type-with-your-thoughts)
 - [From Wool Sneakers to GPU Racks, Allbirds Just Became an AI Company](https://savvymonk.beehiiv.com/p/from-wool-sneakers-to-gpu-racks-allbirds-just-became-an-ai-company)
 - [OpenAI Just Called Anthropic&#39;s $30B Revenue Number a Lie](https://savvymonk.beehiiv.com/p/openai-just-called-anthropic-s-30b-revenue-number-a-lie)
 - [The Math Proving AI Companies Are Destroying Their Own Customers](https://savvymonk.beehiiv.com/p/the-math-proving-ai-companies-are-destroying-their-own-customers)
 - [The AI Companies Have Been Lying to the Courts. Researchers Just Proved It.](https://savvymonk.beehiiv.com/p/the-ai-companies-have-been-lying-to-the-courts-researchers-just-proved-it)
 - [No Drug Has Ever Been Approved to Slow Aging. One Startup Is Getting Close.](https://savvymonk.beehiiv.com/p/no-drug-has-ever-been-approved-to-slow-aging-one-startup-is-getting-close)
-- [OpenAI Has a Plan for the AI Age. It Includes a Shorter Workweek and a Public Wealth Fund.](https://savvymonk.beehiiv.com/p/openai-has-a-plan-for-the-ai-age-it-includes-a-shorter-workweek-and-a-public-wealth-fund)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
