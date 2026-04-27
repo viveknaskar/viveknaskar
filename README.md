@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [OpenAI Just Released GPT-5.5, and the Benchmark Picture Is More Complicated Than They&#39;re Letting On](https://savvymonk.beehiiv.com/p/openai-just-released-gpt-5-5-and-the-benchmark-picture-is-more-complicated-than-they-re-letting-on)
 - [Microsoft Will Pay Thousands of Employees to Quit](https://savvymonk.beehiiv.com/p/microsoft-will-pay-thousands-of-employees-to-quit)
 - [Meta Will Record Every Click and Keystroke Its Employees Make to Train AI](https://savvymonk.beehiiv.com/p/meta-will-record-every-click-and-keystroke-its-employees-make-to-train-ai)
 - [OpenAI Just Dropped the Biggest Image Model Upgrade in AI History](https://savvymonk.beehiiv.com/p/openai-just-dropped-the-biggest-image-model-upgrade-in-ai-history)
 - [Sergey Brin is personally running a team to beat Claude at Coding](https://savvymonk.beehiiv.com/p/sergey-brin-is-personally-running-a-team-to-beat-claude-at-coding)
 - [Anthropic Built a Design Tool and Figma&#39;s Stock Dropped 6.8% the Same Day](https://savvymonk.beehiiv.com/p/anthropic-built-a-design-tool-and-figma-s-stock-dropped-6-8-the-same-day)
-- [This Robot Learned to Use an Air Fryer From Two Training Examples](https://savvymonk.beehiiv.com/p/this-robot-learned-to-use-an-air-fryer-from-two-training-examples)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
