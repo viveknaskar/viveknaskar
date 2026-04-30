@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Microsoft Loses Exclusive OpenAI Access as Both Companies Rework Their Partnership](https://savvymonk.beehiiv.com/p/microsoft-loses-exclusive-openai-access-as-both-companies-rework-their-partnership)
 - [SpaceX Is Acquiring Cursor for $60 Billion](https://savvymonk.beehiiv.com/p/spacex-is-acquiring-cursor-for-60-billion)
 - [OpenAI Just Released GPT-5.5, and the Benchmark Picture Is More Complicated Than They&#39;re Letting On](https://savvymonk.beehiiv.com/p/openai-just-released-gpt-5-5-and-the-benchmark-picture-is-more-complicated-than-they-re-letting-on)
 - [Microsoft Will Pay Thousands of Employees to Quit](https://savvymonk.beehiiv.com/p/microsoft-will-pay-thousands-of-employees-to-quit)
 - [Meta Will Record Every Click and Keystroke Its Employees Make to Train AI](https://savvymonk.beehiiv.com/p/meta-will-record-every-click-and-keystroke-its-employees-make-to-train-ai)
 - [OpenAI Just Dropped the Biggest Image Model Upgrade in AI History](https://savvymonk.beehiiv.com/p/openai-just-dropped-the-biggest-image-model-upgrade-in-ai-history)
-- [Sergey Brin is personally running a team to beat Claude at Coding](https://savvymonk.beehiiv.com/p/sergey-brin-is-personally-running-a-team-to-beat-claude-at-coding)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
