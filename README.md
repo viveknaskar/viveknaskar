@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [AI Agents Are Creating a Mac Mini Shortage Apple Didn&#39;t See Coming](https://savvymonk.beehiiv.com/p/ai-agents-are-creating-a-mac-mini-shortage-apple-didn-t-see-coming)
 - [Japan Airlines Put Robots at Haneda Because It&#39;s Running Out of Human Workers](https://savvymonk.beehiiv.com/p/japan-airlines-put-robots-at-haneda-because-it-s-running-out-of-human-workers)
 - [An AI Coding Agent Deleted a Company&#39;s Entire Database in 9 Seconds](https://savvymonk.beehiiv.com/p/an-ai-coding-agent-deleted-a-company-s-entire-database-in-9-seconds)
 - [Anthropic&#39;s Most Guarded AI Model Was Found by Guessing The Web Address](https://savvymonk.beehiiv.com/p/anthropic-s-most-guarded-ai-model-was-found-by-guessing-the-web-address)
 - [OpenAI Is Building a Phone With Apple&#39;s Own Suppliers To Take On Apple](https://savvymonk.beehiiv.com/p/openai-is-building-a-phone-with-apple-s-own-suppliers-to-take-on-apple)
 - [YouTube Has Built Content ID for Your Face](https://savvymonk.beehiiv.com/p/youtube-has-built-content-id-for-your-face)
-- [Microsoft Loses Exclusive OpenAI Access as Both Companies Rework Their Partnership](https://savvymonk.beehiiv.com/p/microsoft-loses-exclusive-openai-access-as-both-companies-rework-their-partnership)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
