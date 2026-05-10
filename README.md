@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Google Launched a Screenless Fitness Tracker That Costs Less Than One Year of Whoop](https://savvymonk.beehiiv.com/p/google-launched-a-screenless-fitness-tracker-that-costs-less-than-one-year-of-whoop)
 - [Coinbase Cut 14% of Its Workforce and AI Is the Reason](https://savvymonk.beehiiv.com/p/coinbase-cut-14-of-its-workforce-and-ai-is-the-reason)
 - [Anthropic Strikes a Compute Deal With SpaceX to Meet Claude&#39;s Surging Demand](https://savvymonk.beehiiv.com/p/anthropic-strikes-a-compute-deal-with-spacex-to-meet-claude-s-surging-demand)
 - [Delivery Robots Are Now Warning Blind Pedestrians About What&#39;s Ahead](https://savvymonk.beehiiv.com/p/delivery-robots-are-now-warning-blind-pedestrians-about-what-s-ahead)
 - [AI Agents Are Creating a Mac Mini Shortage Apple Didn&#39;t See Coming](https://savvymonk.beehiiv.com/p/ai-agents-are-creating-a-mac-mini-shortage-apple-didn-t-see-coming)
 - [Japan Airlines Put Robots at Haneda Because It&#39;s Running Out of Human Workers](https://savvymonk.beehiiv.com/p/japan-airlines-put-robots-at-haneda-because-it-s-running-out-of-human-workers)
-- [An AI Coding Agent Deleted a Company&#39;s Entire Database in 9 Seconds](https://savvymonk.beehiiv.com/p/an-ai-coding-agent-deleted-a-company-s-entire-database-in-9-seconds)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
