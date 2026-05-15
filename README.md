@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Andrew Ng Says There Won&#39;t Be an AI Jobpocalypse](https://savvymonk.beehiiv.com/p/andrew-ng-says-there-won-t-be-an-ai-jobpocalypse)
 - [Amazon Caught Its Employees Faking AI Usage to Hit Internal Targets](https://savvymonk.beehiiv.com/p/amazon-caught-its-employees-faking-ai-usage-to-hit-internal-targets)
 - [Meta Can Now Read Your Instagram DMs and the Timing Was No Accident](https://savvymonk.beehiiv.com/p/meta-can-now-read-your-instagram-dms-and-the-timing-was-no-accident)
 - [Claude Was Blackmailing Engineers to Avoid Shutdown, Anthropic Fixed the Issue for Good](https://savvymonk.beehiiv.com/p/claude-was-blackmailing-engineers-to-avoid-shutdown-anthropic-fixed-the-issue-for-good)
 - [Uber Wants to Turn Its Millions of Drivers Into a Data Factory for Self-Driving Cars](https://savvymonk.beehiiv.com/p/uber-wants-to-turn-its-millions-of-drivers-into-a-data-factory-for-self-driving-cars)
 - [Google Launched a Screenless Fitness Tracker That Costs Less Than One Year of Whoop](https://savvymonk.beehiiv.com/p/google-launched-a-screenless-fitness-tracker-that-costs-less-than-one-year-of-whoop)
-- [Coinbase Cut 14% of Its Workforce and AI Is the Reason](https://savvymonk.beehiiv.com/p/coinbase-cut-14-of-its-workforce-and-ai-is-the-reason)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
