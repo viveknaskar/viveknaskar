@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Google is Cutting Free Gmail Storage from 15GB to 5GB](https://savvymonk.beehiiv.com/p/google-is-cutting-free-gmail-storage-from-15gb-to-5gb)
 - [OpenAI Is Threatening to Sue Apple Over a Deal That Was Supposed to Make Them Both Rich](https://savvymonk.beehiiv.com/p/openai-is-threatening-to-sue-apple-over-a-deal-that-was-supposed-to-make-them-both-rich)
 - [Cisco Posted Record Revenue and Cut 4,000 Jobs on the Same Day](https://savvymonk.beehiiv.com/p/cisco-posted-record-revenue-and-cut-4-000-jobs-on-the-same-day)
 - [Andrew Ng Says There Won&#39;t Be an AI Jobpocalypse](https://savvymonk.beehiiv.com/p/andrew-ng-says-there-won-t-be-an-ai-jobpocalypse)
 - [Amazon Caught Its Employees Faking AI Usage to Hit Internal Targets](https://savvymonk.beehiiv.com/p/amazon-caught-its-employees-faking-ai-usage-to-hit-internal-targets)
 - [Meta Can Now Read Your Instagram DMs and the Timing Was No Accident](https://savvymonk.beehiiv.com/p/meta-can-now-read-your-instagram-dms-and-the-timing-was-no-accident)
-- [Claude Was Blackmailing Engineers to Avoid Shutdown, Anthropic Fixed the Issue for Good](https://savvymonk.beehiiv.com/p/claude-was-blackmailing-engineers-to-avoid-shutdown-anthropic-fixed-the-issue-for-good)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
