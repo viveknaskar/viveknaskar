@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Google&#39;s New Gemini 3.5 Flash Runs 4x Faster Than Rival Frontier Models at Half the Cost](https://savvymonk.beehiiv.com/p/google-s-new-gemini-3-5-flash-runs-4x-faster-than-rival-frontier-models-at-half-the-cost)
 - [Elon Musk Sued OpenAI for $150 Billion and Lost](https://savvymonk.beehiiv.com/p/elon-musk-sued-openai-for-150-billion-and-lost)
 - [OpenAI Gives ChatGPT Access to Your Bank Account, Spending History, and Investment Portfolio](https://savvymonk.beehiiv.com/p/openai-gives-chatgpt-access-to-your-bank-account-spending-history-and-investment-portfolio)
 - [Google Unveils Googlebook, the AI Laptop Built to Succeed the Chromebook](https://savvymonk.beehiiv.com/p/google-unveils-googlebook-the-ai-laptop-built-to-succeed-the-chromebook)
 - [Google is Cutting Free Gmail Storage from 15GB to 5GB](https://savvymonk.beehiiv.com/p/google-is-cutting-free-gmail-storage-from-15gb-to-5gb)
 - [OpenAI Is Threatening to Sue Apple Over a Deal That Was Supposed to Make Them Both Rich](https://savvymonk.beehiiv.com/p/openai-is-threatening-to-sue-apple-over-a-deal-that-was-supposed-to-make-them-both-rich)
-- [Cisco Posted Record Revenue and Cut 4,000 Jobs on the Same Day](https://savvymonk.beehiiv.com/p/cisco-posted-record-revenue-and-cut-4-000-jobs-on-the-same-day)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
