@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Microsoft Cancelled Its Own Claude Code Licenses Because the Bill Got Too Big](https://savvymonk.beehiiv.com/p/microsoft-cancelled-its-own-claude-code-licenses-because-the-bill-got-too-big)
 - [A Humanoid Robot Cleaned a Random San Francisco Apartment Last Week and Charged $150 Flat](https://savvymonk.beehiiv.com/p/a-humanoid-robot-cleaned-a-random-san-francisco-apartment-last-week-and-charged-150-flat)
 - [Trump Pulls AI Safety Order Hours Before Signing After Big Tech Pushback](https://savvymonk.beehiiv.com/p/trump-pulls-ai-safety-order-hours-before-signing-after-big-tech-pushback)
 - [Meta Is Cutting 8,000 Jobs and Spending $135 Billion to Replace Them With AI](https://savvymonk.beehiiv.com/p/meta-is-cutting-8-000-jobs-and-spending-135-billion-to-replace-them-with-ai)
 - [Google&#39;s New Gemini 3.5 Flash Runs 4x Faster Than Rival Frontier Models at Half the Cost](https://savvymonk.beehiiv.com/p/google-s-new-gemini-3-5-flash-runs-4x-faster-than-rival-frontier-models-at-half-the-cost)
 - [Elon Musk Sued OpenAI for $150 Billion and Lost](https://savvymonk.beehiiv.com/p/elon-musk-sued-openai-for-150-billion-and-lost)
-- [OpenAI Gives ChatGPT Access to Your Bank Account, Spending History, and Investment Portfolio](https://savvymonk.beehiiv.com/p/openai-gives-chatgpt-access-to-your-bank-account-spending-history-and-investment-portfolio)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
