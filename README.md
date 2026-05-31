@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Amazon Pulled the Plug on an AI Leaderboard Its Engineers Gamed for Points](https://savvymonk.beehiiv.com/p/amazon-pulled-the-plug-on-an-ai-leaderboard-its-engineers-gamed-for-points)
 - [Anthropic Releases Opus 4.8 With Fast Mode Three Times Cheaper, Standard Price Unchanged](https://savvymonk.beehiiv.com/p/anthropic-releases-opus-4-8-with-fast-mode-three-times-cheaper-standard-price-unchanged)
 - [Meta Wants You to Pay $3.99/Month for Features Instagram Already Should Have Had](https://savvymonk.beehiiv.com/p/meta-wants-you-to-pay-3-99-month-for-features-instagram-already-should-have-had)
 - [Pope Leo XIV Tells the World to &quot;Disarm&quot; AI in a 42,000-Word Encyclical](https://savvymonk.beehiiv.com/p/pope-leo-xiv-tells-the-world-to-disarm-ai-in-a-42-000-word-encyclical)
 - [A Startup With Zero Employees Hits A $250M Valuation](https://savvymonk.beehiiv.com/p/a-startup-with-zero-employees-hits-a-250m-valuation)
 - [Microsoft Cancelled Its Own Claude Code Licenses Because the Bill Got Too Big](https://savvymonk.beehiiv.com/p/microsoft-cancelled-its-own-claude-code-licenses-because-the-bill-got-too-big)
-- [A Humanoid Robot Cleaned a Random San Francisco Apartment Last Week and Charged $150 Flat](https://savvymonk.beehiiv.com/p/a-humanoid-robot-cleaned-a-random-san-francisco-apartment-last-week-and-charged-150-flat)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
