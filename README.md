@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Samsung Hands Its Chip Workers $26.6 Billion in Bonuses Because AI Made It Rich](https://savvymonk.beehiiv.com/p/samsung-hands-its-chip-workers-26-6-billion-in-bonuses-because-ai-made-it-rich)
 - [Google Wants to Release 32 Million Mosquitoes in California and Florida](https://savvymonk.beehiiv.com/p/google-wants-to-release-32-million-mosquitoes-in-california-and-florida)
 - [Amazon Pulled the Plug on an AI Leaderboard Its Engineers Gamed for Points](https://savvymonk.beehiiv.com/p/amazon-pulled-the-plug-on-an-ai-leaderboard-its-engineers-gamed-for-points)
 - [Anthropic Releases Opus 4.8 With Fast Mode Three Times Cheaper, Standard Price Unchanged](https://savvymonk.beehiiv.com/p/anthropic-releases-opus-4-8-with-fast-mode-three-times-cheaper-standard-price-unchanged)
 - [Meta Wants You to Pay $3.99/Month for Features Instagram Already Should Have Had](https://savvymonk.beehiiv.com/p/meta-wants-you-to-pay-3-99-month-for-features-instagram-already-should-have-had)
 - [Pope Leo XIV Tells the World to &quot;Disarm&quot; AI in a 42,000-Word Encyclical](https://savvymonk.beehiiv.com/p/pope-leo-xiv-tells-the-world-to-disarm-ai-in-a-42-000-word-encyclical)
-- [A Startup With Zero Employees Hits A $250M Valuation](https://savvymonk.beehiiv.com/p/a-startup-with-zero-employees-hits-a-250m-valuation)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
