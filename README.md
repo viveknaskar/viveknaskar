@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Anthropic Wants the World Ready to Hit Pause on AI Before LLMs Can Improve Themselves](https://savvymonk.beehiiv.com/p/anthropic-wants-the-world-ready-to-hit-pause-on-ai-before-llms-can-improve-themselves)
 - [ChatGPT Hits 1 Billion Monthly Users Faster Than Any App Ever Built](https://savvymonk.beehiiv.com/p/chatgpt-hits-1-billion-monthly-users-faster-than-any-app-ever-built)
 - [OpenAI Hands Governments a Free AI Model to Fight the Next Pandemic](https://savvymonk.beehiiv.com/p/openai-hands-governments-a-free-ai-model-to-fight-the-next-pandemic)
 - [Google Buried the Blue Links and the Backlash Started Soon After](https://savvymonk.beehiiv.com/p/google-buried-the-blue-links-and-the-backlash-started-soon-after)
 - [Samsung Hands Its Chip Workers $26.6 Billion in Bonuses Because AI Made It Rich](https://savvymonk.beehiiv.com/p/samsung-hands-its-chip-workers-26-6-billion-in-bonuses-because-ai-made-it-rich)
 - [Google Wants to Release 32 Million Mosquitoes in California and Florida](https://savvymonk.beehiiv.com/p/google-wants-to-release-32-million-mosquitoes-in-california-and-florida)
-- [Amazon Pulled the Plug on an AI Leaderboard Its Engineers Gamed for Points](https://savvymonk.beehiiv.com/p/amazon-pulled-the-plug-on-an-ai-leaderboard-its-engineers-gamed-for-points)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
