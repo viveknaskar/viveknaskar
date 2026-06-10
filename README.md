@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [OpenAI Plans to Make ChatGPT Book Your Travel and Ship Your Code](https://savvymonk.beehiiv.com/p/openai-plans-to-make-chatgpt-book-your-travel-and-ship-your-code)
 - [Cambridge Let an AI Design a Vaccine, Then Tested It in 39 People](https://savvymonk.beehiiv.com/p/cambridge-let-an-ai-design-a-vaccine-then-tested-it-in-39-people)
 - [Sam Altman Quietly Backed a 9-Month-Old Startup Rebuilding How Robots Get Made](https://savvymonk.beehiiv.com/p/sam-altman-quietly-backed-a-9-month-old-startup-rebuilding-how-robots-get-made)
 - [Anthropic Wants the World Ready to Hit Pause on AI Before LLMs Can Improve Themselves](https://savvymonk.beehiiv.com/p/anthropic-wants-the-world-ready-to-hit-pause-on-ai-before-llms-can-improve-themselves)
 - [ChatGPT Hits 1 Billion Monthly Users Faster Than Any App Ever Built](https://savvymonk.beehiiv.com/p/chatgpt-hits-1-billion-monthly-users-faster-than-any-app-ever-built)
 - [OpenAI Hands Governments a Free AI Model to Fight the Next Pandemic](https://savvymonk.beehiiv.com/p/openai-hands-governments-a-free-ai-model-to-fight-the-next-pandemic)
-- [Google Buried the Blue Links and the Backlash Started Soon After](https://savvymonk.beehiiv.com/p/google-buried-the-blue-links-and-the-backlash-started-soon-after)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
