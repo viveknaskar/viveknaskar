@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [SpaceX Seals a 60 Billion Dollar Cursor Deal to Chase Rivals in AI Coding](https://savvymonk.beehiiv.com/p/spacex-seals-a-60-billion-dollar-cursor-deal-to-chase-rivals-in-ai-coding)
 - [ChatGPT Lost Its Grip on Half the AI Market for the First Time this Year](https://savvymonk.beehiiv.com/p/chatgpt-lost-its-grip-on-half-the-ai-market-for-the-first-time-this-year)
 - [Anthropic Sued for Overselling Usage on Its 200-Dollar Claude Max Plans](https://savvymonk.beehiiv.com/p/anthropic-sued-for-overselling-usage-on-its-200-dollar-claude-max-plans)
 - [OpenAI Files a Confidential S-1 One Week After Anthropic Beat It to Wall Street](https://savvymonk.beehiiv.com/p/openai-files-a-confidential-s-1-one-week-after-anthropic-beat-it-to-wall-street)
 - [Microsoft Pulled Claude Fable 5 From Its Own Staff While Selling It To Everyone Else](https://savvymonk.beehiiv.com/p/microsoft-pulled-claude-fable-5-from-its-own-staff-while-selling-it-to-everyone-else)
 - [Anthropic Released Fable 5, and It Cut Drug Design Time Tenfold](https://savvymonk.beehiiv.com/p/anthropic-released-fable-5-and-it-cut-drug-design-time-tenfold)
-- [OpenAI Plans to Make ChatGPT Book Your Travel and Ship Your Code](https://savvymonk.beehiiv.com/p/openai-plans-to-make-chatgpt-book-your-travel-and-ship-your-code)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
