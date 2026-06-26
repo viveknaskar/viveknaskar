@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Japan&#39;s Sakana Promises Frontier AI Like Anthropic&#39;s Mythos, Without Export Controls](https://savvymonk.beehiiv.com/p/japan-s-sakana-promises-frontier-ai-like-anthropic-s-mythos-without-export-controls)
 - [Nvidia Says AI Data Centres Can Run on Almost No Water, but There Is a Catch](https://savvymonk.beehiiv.com/p/nvidia-says-ai-data-centres-can-run-on-almost-no-water-but-there-is-a-catch)
 - [Claude Will Soon Need to See Your ID](https://savvymonk.beehiiv.com/p/claude-will-soon-need-to-see-your-id)
 - [Amazon Founder Jeff Bezos Predicts AI Will Create a Labour Shortage As Amazon Keeps Cutting Jobs](https://savvymonk.beehiiv.com/p/amazon-founder-jeff-bezos-predicts-ai-will-create-a-labour-shortage-as-amazon-keeps-cutting-jobs)
 - [Sam Altman Calls Off The Jobs Apocalypse Right Before OpenAI&#39;s One Trillion Dollar IPO](https://savvymonk.beehiiv.com/p/sam-altman-calls-off-the-jobs-apocalypse-right-before-openai-s-one-trillion-dollar-ipo)
 - [Tim Cook Says Pricier iPhones Are Now Unavoidable](https://savvymonk.beehiiv.com/p/tim-cook-says-pricier-iphones-are-now-unavoidable)
-- [Meta&#39;s CTO Admits the AI Reorg Was Atrocious, Then Offers Bigger Snack Budgets](https://savvymonk.beehiiv.com/p/meta-s-cto-admits-the-ai-reorg-was-atrocious-then-offers-bigger-snack-budgets)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
