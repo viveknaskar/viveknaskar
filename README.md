@@ -77,12 +77,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Lost Four Top AI Researchers In Six Days, And Anthropic Took Three Of Them](https://levelup.gitconnected.com/google-lost-four-top-ai-researchers-in-six-days-and-anthropic-took-three-of-them-bf84044e9665?source=rss-873738f2db55------2)
 - [The Companies Spending Billions On AI Are The First Ones Who Can’t Afford To Use It](https://levelup.gitconnected.com/the-companies-spending-billions-on-ai-are-the-first-ones-who-cant-afford-to-use-it-52eab6663786?source=rss-873738f2db55------2)
 - [Tech Companies Are Tracking AI Usage, And The Employees Have Already Figured Out How To Beat It](https://levelup.gitconnected.com/tech-companies-are-tracking-ai-usage-and-the-employees-have-already-figured-out-how-to-beat-it-be7fe2430d5a?source=rss-873738f2db55------2)
 - [Elon Musk’s Plan To Combat Unemployment Due To AI Is Universal Basic Income](https://generativeai.pub/elon-musks-plan-to-combat-unemployment-due-to-ai-is-universal-basic-income-3b3b1c02a9ab?source=rss-873738f2db55------2)
 - [The AI Excuse Is Getting Old, But It Is Still Working](https://levelup.gitconnected.com/the-ai-excuse-is-getting-old-but-it-is-still-working-4576bc9a9eb4?source=rss-873738f2db55------2)
 - [The Curious Case of Anthropic’s Claude](https://levelup.gitconnected.com/the-curious-case-of-anthropics-claude-09287546c030?source=rss-873738f2db55------2)
-- [OpenAI Is Fighting A Dual War, And It’s Losing In Both](https://levelup.gitconnected.com/openai-is-fighting-a-dual-war-and-its-losing-in-both-9f144efb1522?source=rss-873738f2db55------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Newsletter Issues
