@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Anthropic Launches Claude Sonnet 5 Weeks Before a Trillion Dollar IPO Push](https://savvymonk.beehiiv.com/p/anthropic-launches-claude-sonnet-5-weeks-before-a-trillion-dollar-ipo-push)
+- [Google Cut Off Meta&#39;s Gemini Access Because It Ran Out of Compute](https://savvymonk.beehiiv.com/p/google-cut-off-meta-s-gemini-access-because-it-ran-out-of-compute)
+- [Buildings Are Getting an Immune System for Airborne Viruses, Funded by 150 Million Federal Dollars](https://savvymonk.beehiiv.com/p/buildings-are-getting-an-immune-system-for-airborne-viruses-funded-by-150-million-federal-dollars)
 - [First Anthropic, Now OpenAI. Washington Is Gating Frontier AI Customer by Customer](https://savvymonk.beehiiv.com/p/first-anthropic-now-openai-washington-is-gating-frontier-ai-customer-by-customer)
 - [Google Lost 4 Top AI Researchers In 6 Days, And Anthropic Took Three Of Them](https://savvymonk.beehiiv.com/p/google-lost-4-top-ai-researchers-in-6-days-and-anthropic-took-three-of-them)
 - [Meta drops a 299 dollar AI glasses line and undercuts its own Ray-Bans](https://savvymonk.beehiiv.com/p/meta-drops-a-299-dollar-ai-glasses-line-and-undercuts-its-own-ray-bans)
-- [Japan&#39;s Sakana Promises Frontier AI Like Anthropic&#39;s Mythos, Without Export Controls](https://savvymonk.beehiiv.com/p/japan-s-sakana-promises-frontier-ai-like-anthropic-s-mythos-without-export-controls)
-- [Nvidia Says AI Data Centres Can Run on Almost No Water, but There Is a Catch](https://savvymonk.beehiiv.com/p/nvidia-says-ai-data-centres-can-run-on-almost-no-water-but-there-is-a-catch)
-- [Claude Will Soon Need to See Your ID](https://savvymonk.beehiiv.com/p/claude-will-soon-need-to-see-your-id)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
