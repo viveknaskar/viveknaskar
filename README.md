@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Anthropic Taps Samsung to Build Its First Custom AI Chip](https://savvymonk.beehiiv.com/p/anthropic-taps-samsung-to-build-its-first-custom-ai-chip)
 - [OpenAI Offers Washington a 42.6 Billion Dollar Stake to Ease Political Pressure](https://savvymonk.beehiiv.com/p/openai-offers-washington-a-42-6-billion-dollar-stake-to-ease-political-pressure)
 - [Meta is Burning 50,000 Dollars a Year Per Employee on AI Tokens](https://savvymonk.beehiiv.com/p/meta-is-burning-50-000-dollars-a-year-per-employee-on-ai-tokens)
 - [Ford Rehired 350 Veteran Engineers After AI Cost It Billions in Quality Failures](https://savvymonk.beehiiv.com/p/ford-rehired-350-veteran-engineers-after-ai-cost-it-billions-in-quality-failures)
 - [Anthropic Launches Claude Sonnet 5 Weeks Before a Trillion Dollar IPO Push](https://savvymonk.beehiiv.com/p/anthropic-launches-claude-sonnet-5-weeks-before-a-trillion-dollar-ipo-push)
 - [Google Cut Off Meta&#39;s Gemini Access Because It Ran Out of Compute](https://savvymonk.beehiiv.com/p/google-cut-off-meta-s-gemini-access-because-it-ran-out-of-compute)
-- [Buildings Are Getting an Immune System for Airborne Viruses, Funded by 150 Million Federal Dollars](https://savvymonk.beehiiv.com/p/buildings-are-getting-an-immune-system-for-airborne-viruses-funded-by-150-million-federal-dollars)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
