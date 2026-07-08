@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Microsoft Fired 4,800 Workers While Pouring 2.5 Billion Into AI Deployment](https://savvymonk.beehiiv.com/p/microsoft-fired-4-800-workers-while-pouring-2-5-billion-into-ai-deployment)
 - [Neuralink Removed the Bottleneck Keeping Brain Chips From Scaling](https://savvymonk.beehiiv.com/p/neuralink-removed-the-bottleneck-keeping-brain-chips-from-scaling)
 - [Anthropic Taps Samsung to Build Its First Custom AI Chip](https://savvymonk.beehiiv.com/p/anthropic-taps-samsung-to-build-its-first-custom-ai-chip)
 - [OpenAI Offers Washington a 42.6 Billion Dollar Stake to Ease Political Pressure](https://savvymonk.beehiiv.com/p/openai-offers-washington-a-42-6-billion-dollar-stake-to-ease-political-pressure)
 - [Meta is Burning 50,000 Dollars a Year Per Employee on AI Tokens](https://savvymonk.beehiiv.com/p/meta-is-burning-50-000-dollars-a-year-per-employee-on-ai-tokens)
 - [Ford Rehired 350 Veteran Engineers After AI Cost It Billions in Quality Failures](https://savvymonk.beehiiv.com/p/ford-rehired-350-veteran-engineers-after-ai-cost-it-billions-in-quality-failures)
-- [Anthropic Launches Claude Sonnet 5 Weeks Before a Trillion Dollar IPO Push](https://savvymonk.beehiiv.com/p/anthropic-launches-claude-sonnet-5-weeks-before-a-trillion-dollar-ipo-push)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
