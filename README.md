@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [1X Built Robot Hands That Pick Grapes and Speak Sign Language](https://savvymonk.beehiiv.com/p/1x-built-robot-hands-that-pick-grapes-and-speak-sign-language)
 - [China Recovered a Booster on Its Maiden Flight, Something Even SpaceX Could Not Do](https://savvymonk.beehiiv.com/p/china-recovered-a-booster-on-its-maiden-flight-something-even-spacex-could-not-do)
 - [Apple Says OpenAI&#39;s 6.5 Billion Dollar Hardware Bet Is Built on Stolen Secrets](https://savvymonk.beehiiv.com/p/apple-says-openai-s-6-5-billion-dollar-hardware-bet-is-built-on-stolen-secrets)
 - [OpenAI&#39;s New GPT-5.6 Agent Will Work on Your Project for Hours Without You](https://savvymonk.beehiiv.com/p/openai-s-new-gpt-5-6-agent-will-work-on-your-project-for-hours-without-you)
 - [Anthropic sends Claude Cowork to your phone and gives Fable 5 users five more free days](https://savvymonk.beehiiv.com/p/anthropic-sends-claude-cowork-to-your-phone-and-gives-fable-5-users-five-more-free-days)
 - [Meta Says Its Secret &#39;Watermelon&#39; Model Has Caught OpenAI&#39;s GPT-5.5](https://savvymonk.beehiiv.com/p/meta-says-its-secret-watermelon-model-has-caught-openai-s-gpt-5-5)
-- [Microsoft Fired 4,800 Workers While Pouring 2.5 Billion Into AI Deployment](https://savvymonk.beehiiv.com/p/microsoft-fired-4-800-workers-while-pouring-2-5-billion-into-ai-deployment)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
