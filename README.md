@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Jeff Dean and Three Google Veterans Are Leaving to Launch an AI Research Startup](https://www.savvymonknewsletter.com/p/jeff-dean-and-three-google-veterans-are-leaving-to-launch-an-ai-research-startup)
 - [Anthropic Says Opus 5 Matches Its Best Model for Half the Price](https://www.savvymonknewsletter.com/p/anthropic-says-opus-5-matches-its-best-model-for-half-the-price)
 - [Google Made Gemini Flash Cheaper And Better At The Same Time With Gemini 3.6 Flash](https://www.savvymonknewsletter.com/p/google-made-gemini-flash-cheaper-and-better-at-the-same-time-with-gemini-3-6-flash)
 - [Moonshot&#39;s Kimi K3 Beat Fable 5 Off the Top Spot](https://www.savvymonknewsletter.com/p/moonshot-s-kimi-k3-beat-fable-5-off-the-top-spot)
 - [1X Built Robot Hands That Pick Grapes and Speak Sign Language](https://www.savvymonknewsletter.com/p/1x-built-robot-hands-that-pick-grapes-and-speak-sign-language)
 - [China Recovered a Booster on Its Maiden Flight, Something Even SpaceX Could Not Do](https://www.savvymonknewsletter.com/p/china-recovered-a-booster-on-its-maiden-flight-something-even-spacex-could-not-do)
-- [Apple Says OpenAI&#39;s 6.5 Billion Dollar Hardware Bet Is Built on Stolen Secrets](https://www.savvymonknewsletter.com/p/apple-says-openai-s-6-5-billion-dollar-hardware-bet-is-built-on-stolen-secrets)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
