@@ -77,7 +77,7 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
-- [First Movers Have Always Had The Advantage, And Google Is Proving The Same In This AI Race](https://levelup.gitconnected.com/first-movers-have-always-had-the-advantage-and-google-is-proving-the-same-in-this-ai-race-c5ae0313a12e?source=rss-873738f2db55------2)
+- [First Movers Have Always Had The Advantage, And Google Is Proving Otherwise In This AI Race](https://levelup.gitconnected.com/first-movers-have-always-had-the-advantage-and-google-is-proving-the-same-in-this-ai-race-c5ae0313a12e?source=rss-873738f2db55------2)
 - [The People Selling You AI Panic Are Getting Paid To Scare You](https://levelup.gitconnected.com/the-people-selling-you-ai-panic-are-getting-paid-to-scare-you-74fe19197435?source=rss-873738f2db55------2)
 - [Tech Companies Are Hiring Back The Engineers They Fired For AI](https://levelup.gitconnected.com/tech-companies-are-hiring-back-the-engineers-they-fired-for-ai-432df82138ca?source=rss-873738f2db55------2)
 - [Google Lost Four Top AI Researchers In Six Days, And Anthropic Took Three Of Them](https://levelup.gitconnected.com/google-lost-four-top-ai-researchers-in-six-days-and-anthropic-took-three-of-them-bf84044e9665?source=rss-873738f2db55------2)
