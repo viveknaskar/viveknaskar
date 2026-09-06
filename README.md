@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [OpenAI and Anthropic Ship Frontier Models Three Days Apart at the Exact Same $10 and $50 Price](https://www.savvymonknewsletter.com/p/openai-and-anthropic-ship-frontier-models-three-days-apart-at-the-exact-same-10-and-50-price)
 - [Anthropic Gave Cowork Claude&#39;s Memory, But Only When It Runs In The Cloud](https://www.savvymonknewsletter.com/p/anthropic-gave-cowork-claude-s-memory-but-only-when-it-runs-in-the-cloud)
 - [The US Closed the Door on 85 Percent of the World&#39;s Humanoid Robots](https://www.savvymonknewsletter.com/p/the-us-closed-the-door-on-85-percent-of-the-world-s-humanoid-robots)
 - [Jeff Dean and Three Google Veterans Are Leaving to Launch an AI Research Startup](https://www.savvymonknewsletter.com/p/jeff-dean-and-three-google-veterans-are-leaving-to-launch-an-ai-research-startup)
 - [Anthropic Says Opus 5 Matches Its Best Model for Half the Price](https://www.savvymonknewsletter.com/p/anthropic-says-opus-5-matches-its-best-model-for-half-the-price)
 - [Google Made Gemini Flash Cheaper And Better At The Same Time With Gemini 3.6 Flash](https://www.savvymonknewsletter.com/p/google-made-gemini-flash-cheaper-and-better-at-the-same-time-with-gemini-3-6-flash)
-- [Moonshot&#39;s Kimi K3 Beat Fable 5 Off the Top Spot](https://www.savvymonknewsletter.com/p/moonshot-s-kimi-k3-beat-fable-5-off-the-top-spot)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
