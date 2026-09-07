@@ -77,12 +77,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Is A Better Excuse Than It Is A Replacement](https://levelup.gitconnected.com/ai-is-a-better-excuse-than-it-is-a-replacement-974faa94ac7f?source=rss-873738f2db55------2)
 - [First Movers Have Always Had The Advantage, And Google Is Proving Otherwise In This AI Race](https://levelup.gitconnected.com/first-movers-have-always-had-the-advantage-and-google-is-proving-the-same-in-this-ai-race-c5ae0313a12e?source=rss-873738f2db55------2)
 - [The People Selling You AI Panic Are Getting Paid To Scare You](https://levelup.gitconnected.com/the-people-selling-you-ai-panic-are-getting-paid-to-scare-you-74fe19197435?source=rss-873738f2db55------2)
 - [Tech Companies Are Hiring Back The Engineers They Fired For AI](https://levelup.gitconnected.com/tech-companies-are-hiring-back-the-engineers-they-fired-for-ai-432df82138ca?source=rss-873738f2db55------2)
 - [Google Lost Four Top AI Researchers In Six Days, And Anthropic Took Three Of Them](https://levelup.gitconnected.com/google-lost-four-top-ai-researchers-in-six-days-and-anthropic-took-three-of-them-bf84044e9665?source=rss-873738f2db55------2)
 - [The Companies Spending Billions On AI Are The First Ones Who Can’t Afford To Use It](https://levelup.gitconnected.com/the-companies-spending-billions-on-ai-are-the-first-ones-who-cant-afford-to-use-it-52eab6663786?source=rss-873738f2db55------2)
-- [Tech Companies Are Tracking AI Usage, And The Employees Have Already Figured Out How To Beat It](https://levelup.gitconnected.com/tech-companies-are-tracking-ai-usage-and-the-employees-have-already-figured-out-how-to-beat-it-be7fe2430d5a?source=rss-873738f2db55------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Newsletter Issues
