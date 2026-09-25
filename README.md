@@ -3,13 +3,14 @@
 
 This is Vivek, a senior software developer with a strong interest in cloud and cloud-native technologies.
 
-I primarily write code in Java, using Spring Boot as my framework of choice, and specialize in microservices-based applications. I also have experience with front-end technologies like jQuery, React, HTML5, CSS, and Tailwind CSS, as well as programming languages such as Python, TypeScript, and JavaScript. I'm passionate about cloud-native technologies and hold two Google Cloud certifications: [Associate Cloud Engineer](https://www.credly.com/badges/a4a68140-7ae5-4f9f-9367-0feab898de29) and [Professional Cloud Architect](https://www.credly.com/badges/28e58ecf-b240-4b9d-8351-a9e8885ccb1e). ☁️🚀
+I primarily write code in Java, using Spring Boot as my framework of choice, and specialize in microservices-based applications. I also have experience with front-end technologies like jQuery, React, HTML5, CSS, and Tailwind CSS, as well as programming languages such as Python, TypeScript, and JavaScript. I'm passionate about cloud-native technologies and hold three Google Cloud certifications: [Associate Cloud Engineer](https://www.credly.com/badges/a4a68140-7ae5-4f9f-9367-0feab898de29), [Professional Cloud Architect](https://www.credly.com/badges/28e58ecf-b240-4b9d-8351-a9e8885ccb1e), and [Generative AI Leader](https://www.credly.com/badges/b15578a8-9f33-46f3-acfa-83d632fad19e). ☁️🚀
 
 In addition, I've been exploring machine learning and have been developing applications or experimenting with different LLMs in my free time.
 
 ## Certifications
 [![GCP Associate Cloud Engineer](https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/a4a68140-7ae5-4f9f-9367-0feab898de29)
 [![GCP Professional Cloud Architect](https://img.shields.io/badge/GCP-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/28e58ecf-b240-4b9d-8351-a9e8885ccb1e)
+[![Google Generative AI Leader](https://img.shields.io/badge/Google-Generative_AI_Leader-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/b15578a8-9f33-46f3-acfa-83d632fad19e)
 
 ## Technologies & Tools
 <p align="left">
