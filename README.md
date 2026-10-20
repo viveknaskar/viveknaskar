@@ -74,7 +74,6 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ![viveknaskar's GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viveknaskar&theme=github_dark)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viveknaskar&theme=react-dark&hide_border=true)
 
 ## Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
