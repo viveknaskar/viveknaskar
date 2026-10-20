@@ -6,7 +6,6 @@ import sys
 
 
 MEDIUM_USERNAME = "viveknaskar"
-BEEHIIV_PUBLICATION_ID = os.environ.get("BEEHIIV_PUBLICATION_ID", "")
 README_PATH = "README.md"
 
 
@@ -39,27 +38,6 @@ def get_medium_followers():
 
 
 
-def get_beehiiv_subscribers():
-    api_key = os.environ.get("BEEHIIV_API_KEY")
-    if not api_key:
-        print("BEEHIIV_API_KEY not set, skipping Beehiiv subscribers")
-        return None
-    try:
-        url = f"https://api.beehiiv.com/v2/publications/{BEEHIIV_PUBLICATION_ID}"
-        headers = {"Authorization": f"Bearer {api_key}"}
-        response = requests.get(url, headers=headers, timeout=15)
-        if response.status_code == 200:
-            data = response.json()
-            count = data["data"]["stats"]["active_subscriptions"]
-            print(f"Beehiiv subscribers: {count}")
-            return count
-        else:
-            print(f"Beehiiv API returned status {response.status_code}")
-    except Exception as e:
-        print(f"Error fetching Beehiiv subscribers: {e}")
-    return None
-
-
 def format_count(count):
     if count >= 1_000_000:
         m = count / 1_000_000
@@ -70,7 +48,7 @@ def format_count(count):
     return str(count)
 
 
-def update_readme(medium_count, beehiiv_count):
+def update_readme(medium_count):
     with open(README_PATH, "r") as f:
         content = f.read()
 
@@ -80,14 +58,6 @@ def update_readme(medium_count, beehiiv_count):
         formatted = format_count(medium_count)
         content = re.sub(
             r"(badge/Medium%20Followers-)[^-?]+(-black)",
-            lambda m: f"{m.group(1)}{formatted}{m.group(2)}",
-            content,
-        )
-
-    if beehiiv_count is not None:
-        formatted = format_count(beehiiv_count)
-        content = re.sub(
-            r"(badge/Beehiiv%20Subscribers-)[^-?]+(-orange)",
             lambda m: f"{m.group(1)}{formatted}{m.group(2)}",
             content,
         )
@@ -102,10 +72,9 @@ def update_readme(medium_count, beehiiv_count):
 
 if __name__ == "__main__":
     medium_count = get_medium_followers()
-    beehiiv_count = get_beehiiv_subscribers()
 
-    if medium_count is None and beehiiv_count is None:
-        print("Could not fetch any counts. Exiting without changes.")
+    if medium_count is None:
+        print("Could not fetch Medium followers. Exiting without changes.")
         sys.exit(0)
 
-    update_readme(medium_count, beehiiv_count)
+    update_readme(medium_count)

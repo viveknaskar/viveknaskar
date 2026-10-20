@@ -21,7 +21,7 @@ jobs:
       - name: Update SavvyMonk newsletter issues
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://rss.beehiiv.com/feeds/nx1n9qTLoA.xml"
+          feed_list: "https://savvymonk.substack.com/feed"
           max_post_count: 6
           readme_path: README.md
           comment_tag_name: NEWSLETTER-POST-LIST

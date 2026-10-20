@@ -88,12 +88,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
-- [SavvyMonk Is Leaving Beehiiv for Substack After Months of Flat Growth](https://www.savvymonknewsletter.com/p/savvymonk-is-leaving-beehiiv-for-substack-after-months-of-flat-growth)
-- [OpenAI and Anthropic Ship Frontier Models Three Days Apart at the Exact Same $10 and $50 Price](https://www.savvymonknewsletter.com/p/openai-and-anthropic-ship-frontier-models-three-days-apart-at-the-exact-same-10-and-50-price)
-- [Anthropic Gave Cowork Claude&#39;s Memory, But Only When It Runs In The Cloud](https://www.savvymonknewsletter.com/p/anthropic-gave-cowork-claude-s-memory-but-only-when-it-runs-in-the-cloud)
-- [The US Closed the Door on 85 Percent of the World&#39;s Humanoid Robots](https://www.savvymonknewsletter.com/p/the-us-closed-the-door-on-85-percent-of-the-world-s-humanoid-robots)
-- [Jeff Dean and Three Google Veterans Are Leaving to Launch an AI Research Startup](https://www.savvymonknewsletter.com/p/jeff-dean-and-three-google-veterans-are-leaving-to-launch-an-ai-research-startup)
-- [Anthropic Says Opus 5 Matches Its Best Model for Half the Price](https://www.savvymonknewsletter.com/p/anthropic-says-opus-5-matches-its-best-model-for-half-the-price)
+- [Tesla&#39;s New Roadster Jumped Over a Semi Truck and Landed Upside Down Right](https://savvymonk.substack.com/p/teslas-new-roadster-jumped-over-a)
+- [Meta’s Watermelon Model Ships as Muse Wonder and Lands Second Behind Claude Opus 5.5](https://savvymonk.substack.com/p/metas-watermelon-model-ships-as-muse)
+- [Google Ships Gemini 4 Argon at Half the Price of Claude Opus 5.5 After Cancelling Gemini 3.5 Pro](https://savvymonk.substack.com/p/google-ships-gemini-4-argon-at-half)
+- [Anthropic Gave Claude Live Dashboards and an Animation Tool That Uses No Video Model](https://savvymonk.substack.com/p/anthropic-gave-claude-live-dashboards)
+- [Moonshot&#39;s Kimi K3 Beat Fable 5 Off the Top Spot](https://savvymonk.substack.com/p/moonshots-kimi-k3-beat-fable-5-off)
+- [Apple Says OpenAI&#39;s 6.5 Billion Dollar Hardware Bet Is Built on Stolen Secrets](https://savvymonk.substack.com/p/apple-says-openai-s-6-5-billion-dollar-hardware-bet-is-built-on-stolen-secrets)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
@@ -102,7 +102,7 @@ In addition, I've been exploring machine learning and have been developing appli
 <a href="https://www.linkedin.com/in/viveknaskar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/thedeveloperstory/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.youtube.com/@thedeveloperstory" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://www.savvymonknewsletter.com/" target="_blank"><img src="https://img.shields.io/badge/Newsletter-FF6B35?style=for-the-badge&logo=maildotru&logoColor=white" alt="Beehiiv Newsletter"/></a>
+<a href="https://savvymonk.substack.com/" target="_blank"><img src="https://img.shields.io/badge/Newsletter-FF6B35?style=for-the-badge&logo=maildotru&logoColor=white" alt="Substack Newsletter"/></a>
 <a href="https://www.threads.com/@thedeveloperstory" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
 <a href="https://peerlist.io/viveknaskar" target="_blank"><img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist"/></a>
 
