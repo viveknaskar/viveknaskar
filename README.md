@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [The NSA Told Websites to Go Offline After Two PHP Flaws Put an Estimated 70% of the Web at Risk](https://savvymonk.substack.com/p/the-nsa-told-websites-to-go-offline)
 - [Anthropic Lost 80 Billion Dollars in Six Months and Still Wants a Two Trillion Dollar Valuation](https://savvymonk.substack.com/p/anthropic-lost-80-billion-dollars)
 - [Disney Bids Twenty Million Dollars for the Bankrupt Chatbot It Once Told to Stop Using Its Characters](https://savvymonk.substack.com/p/disney-bids-twenty-million-dollars)
 - [Tesla&#39;s New Roadster Jumped Over a Semi Truck and Landed Upside Down Right](https://savvymonk.substack.com/p/teslas-new-roadster-jumped-over-a)
 - [Meta’s Watermelon Model Ships as Muse Wonder and Lands Second Behind Claude Opus 5.5](https://savvymonk.substack.com/p/metas-watermelon-model-ships-as-muse)
 - [Google Ships Gemini 4 Argon at Half the Price of Claude Opus 5.5 After Cancelling Gemini 3.5 Pro](https://savvymonk.substack.com/p/google-ships-gemini-4-argon-at-half)
-- [Anthropic Gave Claude Live Dashboards and an Animation Tool That Uses No Video Model](https://savvymonk.substack.com/p/anthropic-gave-claude-live-dashboards)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
