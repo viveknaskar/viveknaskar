@@ -22,6 +22,10 @@ jobs:
         continue-on-error: true
         run: |
           curl -s -i -m 20 -A "rss-parser" -H "Accept: application/rss+xml" https://savvymonk.substack.com/feed | head -25
+          for u in "https://savvymonk.substack.com/api/v1/archive?sort=new&limit=6" "https://savvymonk.substack.com/sitemap.xml" "https://savvymonk.substack.com/feed.xml"; do
+            echo "--- $u ---"
+            curl -s -o /dev/null -w "%{http_code}\n" -m 20 -A "rss-parser" "$u"
+          done
           echo "--- browser user agent ---"
           curl -s -o /dev/null -w "%{http_code}\n" -m 20 -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/120 Safari/537.36" https://savvymonk.substack.com/feed
       - name: Update SavvyMonk newsletter issues
