@@ -18,7 +18,14 @@ jobs:
           readme_path: README.md
           comment_tag_name: BLOG-POST-LIST
           gh_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Diagnose SavvyMonk feed
+        continue-on-error: true
+        run: |
+          curl -s -i -m 20 -A "rss-parser" -H "Accept: application/rss+xml" https://savvymonk.substack.com/feed | head -25
+          echo "--- browser user agent ---"
+          curl -s -o /dev/null -w "%{http_code}\n" -m 20 -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/120 Safari/537.36" https://savvymonk.substack.com/feed
       - name: Update SavvyMonk newsletter issues
+        continue-on-error: true
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://savvymonk.substack.com/feed"
