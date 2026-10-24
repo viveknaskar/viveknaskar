@@ -87,12 +87,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Newsletter Issues
 <!-- NEWSLETTER-POST-LIST:START -->
+- [Anthropic Lost 80 Billion Dollars in Six Months and Still Wants a Two Trillion Dollar Valuation](https://savvymonk.substack.com/p/anthropic-lost-80-billion-dollars)
+- [Disney Bids Twenty Million Dollars for the Bankrupt Chatbot It Once Told to Stop Using Its Characters](https://savvymonk.substack.com/p/disney-bids-twenty-million-dollars)
 - [Tesla&#39;s New Roadster Jumped Over a Semi Truck and Landed Upside Down Right](https://savvymonk.substack.com/p/teslas-new-roadster-jumped-over-a)
 - [Meta’s Watermelon Model Ships as Muse Wonder and Lands Second Behind Claude Opus 5.5](https://savvymonk.substack.com/p/metas-watermelon-model-ships-as-muse)
 - [Google Ships Gemini 4 Argon at Half the Price of Claude Opus 5.5 After Cancelling Gemini 3.5 Pro](https://savvymonk.substack.com/p/google-ships-gemini-4-argon-at-half)
 - [Anthropic Gave Claude Live Dashboards and an Animation Tool That Uses No Video Model](https://savvymonk.substack.com/p/anthropic-gave-claude-live-dashboards)
-- [Moonshot&#39;s Kimi K3 Beat Fable 5 Off the Top Spot](https://savvymonk.substack.com/p/moonshots-kimi-k3-beat-fable-5-off)
-- [Apple Says OpenAI&#39;s 6.5 Billion Dollar Hardware Bet Is Built on Stolen Secrets](https://savvymonk.substack.com/p/apple-says-openai-s-6-5-billion-dollar-hardware-bet-is-built-on-stolen-secrets)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Connect With Me
