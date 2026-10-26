@@ -77,12 +77,12 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackers Did Not Need To Be Clever In October, Because We Kept Leaving Our Keys Lying Around](https://levelup.gitconnected.com/hackers-did-not-need-to-be-clever-in-october-because-we-kept-leaving-our-keys-lying-around-5d501021fe8c?source=rss-873738f2db55------2)
 - [AI Gave Junior Engineers an Intern Before They Had the Chance to Become One](https://levelup.gitconnected.com/ai-gave-junior-engineers-an-intern-before-they-had-the-chance-to-become-one-a391161f6653?source=rss-873738f2db55------2)
 - [AI Is A Better Excuse Than It Is A Replacement](https://levelup.gitconnected.com/ai-is-a-better-excuse-than-it-is-a-replacement-974faa94ac7f?source=rss-873738f2db55------2)
 - [First Movers Have Always Had The Advantage, And Google Is Proving Otherwise In This AI Race](https://levelup.gitconnected.com/first-movers-have-always-had-the-advantage-and-google-is-proving-the-same-in-this-ai-race-c5ae0313a12e?source=rss-873738f2db55------2)
 - [The People Selling You AI Panic Are Getting Paid To Scare You](https://levelup.gitconnected.com/the-people-selling-you-ai-panic-are-getting-paid-to-scare-you-74fe19197435?source=rss-873738f2db55------2)
 - [Tech Companies Are Hiring Back The Engineers They Fired For AI](https://levelup.gitconnected.com/tech-companies-are-hiring-back-the-engineers-they-fired-for-ai-432df82138ca?source=rss-873738f2db55------2)
-- [Google Lost Four Top AI Researchers In Six Days, And Anthropic Took Three Of Them](https://levelup.gitconnected.com/google-lost-four-top-ai-researchers-in-six-days-and-anthropic-took-three-of-them-bf84044e9665?source=rss-873738f2db55------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Newsletter Issues
