@@ -77,7 +77,7 @@ In addition, I've been exploring machine learning and have been developing appli
 
 ## Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Authenticator Had One Job, and It Trusted the Wrong App](https://viveknaskar.medium.com/microsoft-authenticator-had-one-job-and-it-trusted-the-wrong-app-25e99b45cb9a?source=rss-873738f2db55------2)
+- [Microsoft Authenticator Had One Job, and It Trusted the Wrong App](https://levelup.gitconnected.com/microsoft-authenticator-had-one-job-and-it-trusted-the-wrong-app-25e99b45cb9a?source=rss-873738f2db55------2)
 - [Hackers Did Not Need To Be Clever In October, Because We Kept Leaving Our Keys Lying Around](https://levelup.gitconnected.com/hackers-did-not-need-to-be-clever-in-october-because-we-kept-leaving-our-keys-lying-around-5d501021fe8c?source=rss-873738f2db55------2)
 - [AI Gave Junior Engineers an Intern Before They Had the Chance to Become One](https://levelup.gitconnected.com/ai-gave-junior-engineers-an-intern-before-they-had-the-chance-to-become-one-a391161f6653?source=rss-873738f2db55------2)
 - [AI Is A Better Excuse Than It Is A Replacement](https://levelup.gitconnected.com/ai-is-a-better-excuse-than-it-is-a-replacement-974faa94ac7f?source=rss-873738f2db55------2)
